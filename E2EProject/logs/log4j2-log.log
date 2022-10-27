@@ -1,0 +1,123 @@
+[INFO ] 2022-10-09 16:28:16.580 [main] Log - Popup close button clicked
+[INFO ] 2022-10-09 16:28:23.376 [main] Log - Popup close button clicked
+[INFO ] 2022-10-09 16:31:27.440 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-09 16:31:27.618 [main] Log - Browser maximized
+[INFO ] 2022-10-09 16:31:27.874 [main] Log - Popup close button clicked
+[INFO ] 2022-10-09 16:31:34.350 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-09 16:31:34.556 [main] Log - Browser maximized
+[INFO ] 2022-10-09 16:31:34.833 [main] Log - Popup close button clicked
+[INFO ] 2022-10-10 11:24:18.408 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 11:24:18.408 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 11:24:18.775 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2022-10-10 11:24:18.861 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2022-10-10 11:24:19.448 [TestNG-tests-1] Log - Popup close button clicked
+[INFO ] 2022-10-10 11:24:19.466 [TestNG-tests-2] Log - Popup close button clicked
+[INFO ] 2022-10-10 13:06:41.048 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 13:06:41.227 [main] Log - Browser maximized
+[INFO ] 2022-10-10 13:06:41.503 [main] Log - Popup close button clicked
+[INFO ] 2022-10-10 13:08:53.127 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 13:08:53.321 [main] Log - Browser maximized
+[INFO ] 2022-10-10 13:08:53.581 [main] Log - Popup close button clicked
+[INFO ] 2022-10-10 13:12:24.529 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 13:12:24.744 [main] Log - Browser maximized
+[INFO ] 2022-10-10 13:12:24.984 [main] Log - Popup close button clicked
+[INFO ] 2022-10-10 13:13:11.736 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 13:13:12.000 [main] Log - Browser maximized
+[INFO ] 2022-10-10 13:13:12.268 [main] Log - Popup close button clicked
+[INFO ] 2022-10-10 13:16:11.146 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 13:16:11.322 [main] Log - Browser maximized
+[INFO ] 2022-10-10 13:16:11.599 [main] Log - Popup close button clicked
+[INFO ] 2022-10-10 13:21:46.262 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 13:21:46.398 [main] Log - Browser maximized
+[INFO ] 2022-10-10 13:21:46.658 [main] Log - Popup close button clicked
+[INFO ] 2022-10-10 17:18:00.644 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 17:18:00.799 [main] Log - Browser maximized
+[INFO ] 2022-10-10 17:18:01.111 [main] Log - Popup close button clicked
+[INFO ] 2022-10-10 17:20:28.264 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 17:20:28.409 [main] Log - Browser maximized
+[INFO ] 2022-10-10 17:20:53.894 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 17:20:54.144 [main] Log - Browser maximized
+[INFO ] 2022-10-10 17:22:08.120 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 17:22:08.300 [main] Log - Browser maximized
+[INFO ] 2022-10-10 17:22:08.575 [main] Log - Popup close button clicked
+[INFO ] 2022-10-10 17:27:34.359 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 17:27:34.639 [main] Log - Browser maximized
+[INFO ] 2022-10-10 17:27:34.957 [main] Log - Popup close button clicked
+[INFO ] 2022-10-10 17:33:42.051 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 17:34:30.217 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 17:34:30.419 [main] Log - Browser maximized
+[INFO ] 2022-10-10 17:38:27.449 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 17:38:27.611 [main] Log - Browser maximized
+[INFO ] 2022-10-10 17:44:41.611 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 17:44:41.760 [main] Log - Browser maximized
+[INFO ] 2022-10-10 17:47:41.811 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 17:47:42.013 [main] Log - Browser maximized
+[INFO ] 2022-10-10 17:48:51.764 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 17:48:51.910 [main] Log - Browser maximized
+[INFO ] 2022-10-10 17:49:55.120 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 17:49:55.290 [main] Log - Browser maximized
+[INFO ] 2022-10-10 17:50:54.087 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 17:50:54.306 [main] Log - Browser maximized
+[INFO ] 2022-10-10 17:52:15.921 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 17:52:16.155 [main] Log - Browser maximized
+[INFO ] 2022-10-10 17:54:07.834 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 17:54:08.095 [main] Log - Browser maximized
+[INFO ] 2022-10-10 17:56:41.369 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 17:56:41.571 [main] Log - Browser maximized
+[INFO ] 2022-10-10 17:58:40.836 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 17:58:40.988 [main] Log - Browser maximized
+[INFO ] 2022-10-10 17:59:35.481 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 17:59:35.630 [main] Log - Browser maximized
+[INFO ] 2022-10-10 18:08:09.372 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:08:09.372 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:18:22.172 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:18:22.173 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:18:22.446 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2022-10-10 18:18:22.593 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2022-10-10 18:18:23.291 [TestNG-tests-2] Log - Popup close button clicked
+[INFO ] 2022-10-10 18:19:39.775 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:19:39.761 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:19:40.340 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2022-10-10 18:19:40.482 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2022-10-10 18:19:40.966 [TestNG-tests-2] Log - Popup close button clicked
+[INFO ] 2022-10-10 18:20:36.191 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:20:36.191 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:20:36.619 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2022-10-10 18:20:36.942 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2022-10-10 18:20:37.376 [TestNG-tests-2] Log - Popup close button clicked
+[INFO ] 2022-10-10 18:22:06.898 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:22:06.898 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:22:07.154 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2022-10-10 18:22:07.239 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2022-10-10 18:22:13.458 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:22:13.606 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2022-10-10 18:23:31.365 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:23:31.365 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:23:31.711 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2022-10-10 18:23:31.860 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2022-10-10 18:23:38.067 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:23:38.201 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2022-10-10 18:23:43.867 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:23:44.009 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2022-10-10 18:23:49.608 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:23:49.744 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2022-10-10 18:23:56.635 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:23:56.800 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2022-10-10 18:24:41.690 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:24:41.861 [main] Log - Browser maximized
+[INFO ] 2022-10-10 18:24:48.222 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:24:48.397 [main] Log - Browser maximized
+[INFO ] 2022-10-10 18:24:48.735 [main] Log - Popup close button clicked
+[INFO ] 2022-10-10 18:26:33.339 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:26:33.540 [main] Log - Browser maximized
+[INFO ] 2022-10-10 18:26:39.407 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-10 18:26:39.552 [main] Log - Browser maximized
+[INFO ] 2022-10-10 18:26:39.916 [main] Log - Popup close button clicked
+[INFO ] 2022-10-12 00:36:11.780 [main] Log - Chrome Driver initiated
+[INFO ] 2022-10-12 00:36:11.915 [main] Log - Browser maximized
+[INFO ] 2022-10-12 13:57:47.241 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2022-10-12 13:57:47.241 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2022-10-12 13:57:47.554 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2022-10-12 13:57:47.766 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2022-10-12 13:57:48.525 [TestNG-tests-2] Log - Popup close button clicked
+[INFO ] 2022-10-12 13:57:48.573 [TestNG-tests-1] Log - Popup close button clicked

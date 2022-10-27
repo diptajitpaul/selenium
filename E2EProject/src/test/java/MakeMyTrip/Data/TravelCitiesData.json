@@ -1,0 +1,15 @@
+{
+{
+	"fromCity": "Chennai",
+	"toCity"  : "Pune"
+},
+{
+	"fromCity": "Lucknow",
+	"toCity"  : "Delhi"
+},
+{
+	"fromCity": "Delhi",
+	"toCity"  : "Mumbai"
+}
+
+}
