@@ -6,6 +6,7 @@ import MakeMyTrip.Resources.Log;
 import java.io.IOException;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
@@ -42,9 +43,9 @@ public void flightSearch() throws IOException,InterruptedException
 	
 	FlightSearchResult fsr= new FlightSearchResult(driver);
 	fsr.closeButtonPopUp().click();
-	//String flightSerachResTitle=fsr.flightResultTitle().getText();
-	//boolean res=flightSerachResTitle.contains("Flights from");
-	//Assert.assertTrue(res);
+	String flightSerachResTitle=fsr.flightResultTitle().getText();
+	boolean res=flightSerachResTitle.contains("Flights from");
+	Assert.assertTrue(res);
 	
 }
 	
