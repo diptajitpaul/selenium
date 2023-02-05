@@ -121,3 +121,339 @@
 [INFO ] 2022-10-12 13:57:47.766 [TestNG-tests-1] Log - Browser maximized
 [INFO ] 2022-10-12 13:57:48.525 [TestNG-tests-2] Log - Popup close button clicked
 [INFO ] 2022-10-12 13:57:48.573 [TestNG-tests-1] Log - Popup close button clicked
+[INFO ] 2022-11-02 21:24:09.511 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2022-11-02 21:24:09.511 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2022-11-02 21:24:09.808 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2022-11-02 21:24:10.133 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2022-11-02 21:24:50.331 [main] Log - Chrome Driver initiated
+[INFO ] 2022-11-02 21:24:50.479 [main] Log - Browser maximized
+[INFO ] 2022-11-02 21:26:25.154 [main] Log - Chrome Driver initiated
+[INFO ] 2022-11-02 21:26:25.303 [main] Log - Browser maximized
+[INFO ] 2022-11-02 22:14:24.019 [main] Log - Chrome Driver initiated
+[INFO ] 2022-11-02 22:14:24.246 [main] Log - Browser maximized
+[INFO ] 2022-11-02 22:17:03.197 [main] Log - Chrome Driver initiated
+[INFO ] 2022-11-02 22:17:03.408 [main] Log - Browser maximized
+[INFO ] 2022-11-02 22:19:37.914 [main] Log - Chrome Driver initiated
+[INFO ] 2022-11-02 22:19:38.135 [main] Log - Browser maximized
+[INFO ] 2022-11-02 22:21:36.682 [main] Log - Chrome Driver initiated
+[INFO ] 2022-11-02 22:21:36.859 [main] Log - Browser maximized
+[INFO ] 2022-11-02 22:25:37.881 [main] Log - Chrome Driver initiated
+[INFO ] 2022-11-02 22:25:38.082 [main] Log - Browser maximized
+[INFO ] 2022-11-02 22:31:25.368 [main] Log - Chrome Driver initiated
+[INFO ] 2022-11-02 22:31:25.545 [main] Log - Browser maximized
+[INFO ] 2022-11-02 22:34:25.680 [main] Log - Chrome Driver initiated
+[INFO ] 2022-11-02 22:34:25.975 [main] Log - Browser maximized
+[INFO ] 2022-11-02 22:36:08.319 [main] Log - Chrome Driver initiated
+[INFO ] 2022-11-02 22:36:08.470 [main] Log - Browser maximized
+[INFO ] 2022-11-02 22:37:35.273 [main] Log - Chrome Driver initiated
+[INFO ] 2022-11-02 22:37:35.421 [main] Log - Browser maximized
+[INFO ] 2022-11-02 22:41:50.698 [main] Log - Chrome Driver initiated
+[INFO ] 2022-11-02 22:41:50.879 [main] Log - Browser maximized
+[INFO ] 2022-11-02 22:45:23.295 [main] Log - Chrome Driver initiated
+[INFO ] 2022-11-02 22:45:23.460 [main] Log - Browser maximized
+[INFO ] 2022-11-02 22:50:00.116 [main] Log - Chrome Driver initiated
+[INFO ] 2022-11-02 22:50:00.298 [main] Log - Browser maximized
+[INFO ] 2022-11-02 22:51:47.066 [main] Log - Chrome Driver initiated
+[INFO ] 2022-11-02 22:51:47.244 [main] Log - Browser maximized
+[INFO ] 2022-11-02 22:53:45.391 [main] Log - Chrome Driver initiated
+[INFO ] 2022-11-02 22:53:45.624 [main] Log - Browser maximized
+[INFO ] 2023-01-12 14:28:55.514 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2023-01-12 14:28:55.515 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-01-12 14:28:55.824 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-01-12 14:28:56.094 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-01-12 14:44:35.295 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-12 14:44:35.486 [main] Log - Browser maximized
+[INFO ] 2023-01-12 14:45:01.943 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-12 14:45:02.078 [main] Log - Browser maximized
+[INFO ] 2023-01-12 14:48:06.446 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-12 14:48:06.712 [main] Log - Browser maximized
+[INFO ] 2023-01-12 14:48:48.794 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-12 14:48:49.040 [main] Log - Browser maximized
+[INFO ] 2023-01-12 14:49:41.906 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-12 14:49:42.058 [main] Log - Browser maximized
+[INFO ] 2023-01-12 14:54:01.092 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-12 14:54:01.241 [main] Log - Browser maximized
+[INFO ] 2023-01-12 14:54:01.838 [main] Log - Clicked on Hotels
+[INFO ] 2023-01-12 14:56:04.169 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-12 14:56:04.389 [main] Log - Browser maximized
+[INFO ] 2023-01-12 14:56:12.719 [main] Log - Clicked on Hotels
+[INFO ] 2023-01-12 14:56:46.168 [main] Log - Validated that user is on the Hotels page
+[INFO ] 2023-01-12 15:02:01.618 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-12 15:02:01.799 [main] Log - Browser maximized
+[INFO ] 2023-01-12 15:02:02.454 [main] Log - Clicked on Hotels
+[INFO ] 2023-01-12 16:26:14.223 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-12 16:26:14.385 [main] Log - Browser maximized
+[INFO ] 2023-01-12 16:26:15.029 [main] Log - Clicked on Hotels
+[INFO ] 2023-01-12 16:26:17.201 [main] Log - Validated that user is on the Hotels page
+[INFO ] 2023-01-12 16:26:53.455 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-12 16:26:53.604 [main] Log - Browser maximized
+[INFO ] 2023-01-12 16:26:54.215 [main] Log - Clicked on Hotels
+[INFO ] 2023-01-12 16:26:56.376 [main] Log - Validated that user is on the Hotels page
+[INFO ] 2023-01-12 16:28:51.125 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-12 16:28:51.432 [main] Log - Browser maximized
+[INFO ] 2023-01-12 16:28:52.088 [main] Log - Clicked on Hotels
+[INFO ] 2023-01-12 16:28:54.250 [main] Log - Validated that user is on the Hotels page
+[INFO ] 2023-01-12 16:32:17.508 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-12 16:32:17.773 [main] Log - Browser maximized
+[INFO ] 2023-01-12 16:32:18.395 [main] Log - Clicked on Hotels
+[INFO ] 2023-01-12 16:32:20.477 [main] Log - Validated that user is on the Hotels page
+[INFO ] 2023-01-31 12:25:26.161 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-31 12:25:26.382 [main] Log - Browser maximized
+[INFO ] 2023-01-31 12:26:27.128 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-31 12:26:27.330 [main] Log - Browser maximized
+[INFO ] 2023-01-31 20:10:18.035 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-31 20:10:18.256 [main] Log - Browser maximized
+[INFO ] 2023-01-31 20:10:18.380 [main] Log - Clicked on Hotels
+[INFO ] 2023-01-31 20:13:18.243 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-31 20:13:18.399 [main] Log - Browser maximized
+[INFO ] 2023-01-31 20:16:18.702 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-31 20:16:18.980 [main] Log - Browser maximized
+[INFO ] 2023-01-31 20:19:38.036 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-31 20:19:38.182 [main] Log - Browser maximized
+[INFO ] 2023-01-31 20:29:34.619 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-31 20:29:34.805 [main] Log - Browser maximized
+[INFO ] 2023-01-31 20:30:24.137 [main] Log - Clicked on Hotels
+[INFO ] 2023-01-31 20:30:37.288 [main] Log - Validated that user is on the Hotels page
+[INFO ] 2023-01-31 20:31:33.343 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-31 20:31:33.571 [main] Log - Browser maximized
+[INFO ] 2023-01-31 20:31:33.668 [main] Log - Clicked on Hotels
+[INFO ] 2023-01-31 20:40:31.979 [main] Log - Chrome Driver initiated
+[INFO ] 2023-01-31 20:40:32.213 [main] Log - Browser maximized
+[INFO ] 2023-02-01 16:01:11.184 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-01 16:01:11.350 [main] Log - Browser maximized
+[INFO ] 2023-02-01 16:01:11.475 [main] Log - Retrived Flights text
+[INFO ] 2023-02-01 16:01:11.478 [main] Log - Validated that Flights menue is present
+[INFO ] 2023-02-01 16:01:11.531 [main] Log - Retrived Hotels text
+[INFO ] 2023-02-01 16:01:11.532 [main] Log - Validated that Hotels menue is present
+[INFO ] 2023-02-01 16:25:12.162 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-01 16:25:12.314 [main] Log - Browser maximized
+[INFO ] 2023-02-01 16:25:12.697 [main] Log - Retrived Flights text
+[INFO ] 2023-02-01 16:25:12.698 [main] Log - Validated that Flights menue is present
+[INFO ] 2023-02-01 16:25:12.754 [main] Log - Retrived Hotels text
+[INFO ] 2023-02-01 16:25:12.755 [main] Log - Validated that Hotels menue is present
+[INFO ] 2023-02-01 16:31:35.459 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-01 16:31:35.612 [main] Log - Browser maximized
+[INFO ] 2023-02-01 16:31:35.946 [main] Log - Retrived Flights text
+[INFO ] 2023-02-01 16:31:35.946 [main] Log - Validated that Flights menue is present
+[INFO ] 2023-02-01 16:31:36.020 [main] Log - Retrived Hotels text
+[INFO ] 2023-02-01 16:31:36.020 [main] Log - Validated that Hotels menue is present
+[INFO ] 2023-02-01 16:33:41.053 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-01 16:33:41.298 [main] Log - Browser maximized
+[INFO ] 2023-02-01 16:33:41.447 [main] Log - Retrived Hotels text
+[INFO ] 2023-02-01 16:33:41.450 [main] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-01 16:33:41.496 [main] Log - Retrived Flights text
+[INFO ] 2023-02-01 16:33:41.497 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-01 16:33:41.637 [main] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-01 16:34:28.789 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-01 16:34:29.022 [main] Log - Browser maximized
+[INFO ] 2023-02-01 16:34:29.152 [main] Log - Retrived Flights text
+[INFO ] 2023-02-01 16:34:29.155 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-01 16:34:29.353 [main] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-01 16:34:57.025 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-01 16:34:57.170 [main] Log - Browser maximized
+[INFO ] 2023-02-01 16:34:57.386 [main] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-01 16:34:57.552 [main] Log - Retrived Flights text
+[INFO ] 2023-02-01 16:34:57.552 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-01 17:22:17.930 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-01 17:22:18.115 [main] Log - Browser maximized
+[INFO ] 2023-02-01 17:22:18.422 [main] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-01 17:22:18.539 [main] Log - Retrived Flights text
+[INFO ] 2023-02-01 17:22:18.540 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-01 17:22:18.682 [main] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-01 17:22:48.311 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-01 17:22:48.503 [main] Log - Browser maximized
+[INFO ] 2023-02-01 17:22:48.808 [main] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-01 17:22:48.951 [main] Log - Retrived Flights text
+[INFO ] 2023-02-01 17:22:48.952 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-02 15:04:06.000 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 15:04:06.149 [main] Log - Browser maximized
+[INFO ] 2023-02-02 15:04:06.373 [main] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-02 15:04:06.483 [main] Log - Retrived Flights text
+[INFO ] 2023-02-02 15:04:06.484 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-02 15:04:06.620 [main] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-02 15:04:27.626 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 15:04:27.781 [main] Log - Browser maximized
+[INFO ] 2023-02-02 15:04:28.057 [main] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-02 15:04:28.171 [main] Log - Retrived Flights text
+[INFO ] 2023-02-02 15:04:28.171 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-02 15:04:28.324 [main] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-02 15:28:32.734 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 15:28:32.926 [main] Log - Browser maximized
+[INFO ] 2023-02-02 15:28:33.249 [main] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-02 15:28:33.360 [main] Log - Retrived Flights text
+[INFO ] 2023-02-02 15:28:33.362 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-02 15:28:33.521 [main] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-02 15:29:01.935 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 15:29:02.128 [main] Log - Browser maximized
+[INFO ] 2023-02-02 15:29:02.350 [main] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-02 15:29:02.471 [main] Log - Retrived Flights text
+[INFO ] 2023-02-02 15:29:02.472 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-02 15:30:43.935 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 15:30:44.151 [main] Log - Browser maximized
+[INFO ] 2023-02-02 15:30:44.546 [main] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-02 15:30:44.751 [main] Log - Retrived Flights text
+[INFO ] 2023-02-02 15:30:44.752 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-02 15:31:20.093 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 15:31:20.285 [main] Log - Browser maximized
+[INFO ] 2023-02-02 15:31:20.395 [main] Log - Retrived Flights text
+[INFO ] 2023-02-02 15:31:20.398 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-02 15:31:48.928 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 15:31:49.134 [main] Log - Browser maximized
+[INFO ] 2023-02-02 15:31:49.271 [main] Log - Retrived Flights text
+[INFO ] 2023-02-02 15:31:49.275 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-02 15:32:43.339 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 15:32:43.555 [main] Log - Browser maximized
+[INFO ] 2023-02-02 15:35:17.744 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 15:35:17.958 [main] Log - Browser maximized
+[INFO ] 2023-02-02 15:37:05.065 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 15:37:05.260 [main] Log - Browser maximized
+[INFO ] 2023-02-02 15:38:52.440 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 15:38:52.607 [main] Log - Browser maximized
+[INFO ] 2023-02-02 15:39:12.791 [main] Log - no such element: Unable to locate element: {"method":"css selector","selector":"span.select2.select2-container.select2-container--default.select2-container--below"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-2JD998D', ip: '192.168.0.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fa55a0ae64d233a3af62dc47a9b0090f, findElement {using=css selector, value=span.select2.select2-container.select2-container--default.select2-container--below}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:53538}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53538/devtoo..., se:cdpVersion: 109.0.5414.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fa55a0ae64d233a3af62dc47a9b0090f
+[INFO ] 2023-02-02 18:36:09.526 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 18:36:09.740 [main] Log - Browser maximized
+[INFO ] 2023-02-02 18:44:50.096 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 18:44:50.239 [main] Log - Browser maximized
+[INFO ] 2023-02-02 18:44:50.625 [main] Log - element not interactable
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-2JD998D', ip: '192.168.0.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a81e6b84842c4ec74f950396eeaf6f4a, sendKeysToElement {id=fe86d0e1-4bfb-414c-b28a-d92fdb505115, value=[Ljava.lang.CharSequence;@46185a1b}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50645}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50645/devtoo..., se:cdpVersion: 109.0.5414.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (a81e6b84842c4ec74f950396eeaf6f4a)] -> css selector: span#select2-hotels_city-container]
+Session ID: a81e6b84842c4ec74f950396eeaf6f4a
+[INFO ] 2023-02-02 18:45:35.367 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 18:45:35.654 [main] Log - Browser maximized
+[INFO ] 2023-02-02 18:45:36.090 [main] Log - element not interactable
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-2JD998D', ip: '192.168.0.223', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4a52889a017fee9ac15c65a45d317b37, sendKeysToElement {id=314fb526-8fc1-4409-af41-f268d64e42e4, value=[Ljava.lang.CharSequence;@46185a1b}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50705}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50705/devtoo..., se:cdpVersion: 109.0.5414.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (4a52889a017fee9ac15c65a45d317b37)] -> css selector: span#select2-hotels_city-container]
+Session ID: 4a52889a017fee9ac15c65a45d317b37
+[INFO ] 2023-02-02 18:46:47.052 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 18:46:47.319 [main] Log - Browser maximized
+[INFO ] 2023-02-02 18:49:34.888 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 18:49:35.039 [main] Log - Browser maximized
+[INFO ] 2023-02-02 18:50:25.446 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 18:50:25.627 [main] Log - Browser maximized
+[INFO ] 2023-02-02 18:50:49.130 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 18:50:49.354 [main] Log - Browser maximized
+[INFO ] 2023-02-02 18:56:59.471 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 18:56:59.688 [main] Log - Browser maximized
+[INFO ] 2023-02-02 18:57:21.455 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 18:57:21.672 [main] Log - Browser maximized
+[INFO ] 2023-02-02 18:57:47.442 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 18:57:47.591 [main] Log - Browser maximized
+[INFO ] 2023-02-02 19:05:12.277 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 19:05:12.468 [main] Log - Browser maximized
+[INFO ] 2023-02-02 19:05:40.416 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 19:05:40.686 [main] Log - Browser maximized
+[INFO ] 2023-02-02 19:06:27.526 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 19:06:27.784 [main] Log - Browser maximized
+[INFO ] 2023-02-02 19:21:50.603 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-02 19:21:50.785 [main] Log - Browser maximized
+[INFO ] 2023-02-03 11:56:49.931 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 11:56:50.112 [main] Log - Browser maximized
+[INFO ] 2023-02-03 11:59:09.069 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 11:59:09.273 [main] Log - Browser maximized
+[INFO ] 2023-02-03 11:59:51.333 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 11:59:51.515 [main] Log - Browser maximized
+[INFO ] 2023-02-03 12:05:16.202 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 12:05:16.379 [main] Log - Browser maximized
+[INFO ] 2023-02-03 12:06:27.203 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 12:06:27.412 [main] Log - Browser maximized
+[INFO ] 2023-02-03 12:09:06.568 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 12:09:06.833 [main] Log - Browser maximized
+[INFO ] 2023-02-03 12:10:19.920 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 12:10:20.069 [main] Log - Browser maximized
+[INFO ] 2023-02-03 12:11:25.040 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 12:11:25.217 [main] Log - Browser maximized
+[INFO ] 2023-02-03 12:13:53.889 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 12:13:54.130 [main] Log - Browser maximized
+[INFO ] 2023-02-03 12:18:17.032 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 12:18:17.247 [main] Log - Browser maximized
+[INFO ] 2023-02-03 12:27:54.897 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 12:27:55.121 [main] Log - Browser maximized
+[INFO ] 2023-02-03 12:30:06.562 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 12:30:06.728 [main] Log - Browser maximized
+[INFO ] 2023-02-03 12:31:07.602 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 12:31:07.801 [main] Log - Browser maximized
+[INFO ] 2023-02-03 12:31:34.094 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 12:31:34.284 [main] Log - Browser maximized
+[INFO ] 2023-02-03 13:25:03.080 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 13:25:03.289 [main] Log - Browser maximized
+[INFO ] 2023-02-03 14:51:40.105 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 14:51:40.399 [main] Log - Browser maximized
+[INFO ] 2023-02-03 14:51:44.252 [main] Log - Entered From Date
+[INFO ] 2023-02-03 14:51:44.338 [main] Log - Entered To Date
+[INFO ] 2023-02-03 14:51:48.693 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-03 14:52:25.748 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 14:52:25.925 [main] Log - Browser maximized
+[INFO ] 2023-02-03 14:52:29.779 [main] Log - Entered From Date
+[INFO ] 2023-02-03 14:52:29.865 [main] Log - Entered To Date
+[INFO ] 2023-02-03 14:52:36.811 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-03 14:53:27.227 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 14:53:27.459 [main] Log - Browser maximized
+[INFO ] 2023-02-03 14:53:34.406 [main] Log - Entered From Date
+[INFO ] 2023-02-03 14:53:37.490 [main] Log - Entered To Date
+[INFO ] 2023-02-03 14:53:44.654 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-03 15:09:59.352 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 15:09:59.538 [main] Log - Browser maximized
+[INFO ] 2023-02-03 15:10:30.038 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 15:10:30.215 [main] Log - Browser maximized
+[INFO ] 2023-02-03 15:11:09.439 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 15:11:09.618 [main] Log - Browser maximized
+[INFO ] 2023-02-03 15:11:48.309 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 15:11:48.492 [main] Log - Browser maximized
+[INFO ] 2023-02-03 15:12:22.179 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 15:12:22.339 [main] Log - Browser maximized
+[INFO ] 2023-02-03 15:12:27.317 [main] Log - Entered From Date
+[INFO ] 2023-02-03 15:12:28.408 [main] Log - Entered To Date
+[INFO ] 2023-02-03 15:12:33.248 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-03 15:13:15.556 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 15:13:15.723 [main] Log - Browser maximized
+[INFO ] 2023-02-03 15:13:20.723 [main] Log - Entered From Date
+[INFO ] 2023-02-03 15:13:21.822 [main] Log - Entered To Date
+[INFO ] 2023-02-03 15:13:26.572 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-03 15:14:31.182 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 15:14:31.337 [main] Log - Browser maximized
+[INFO ] 2023-02-03 15:14:36.670 [main] Log - Entered From Date
+[INFO ] 2023-02-03 15:14:37.788 [main] Log - Entered To Date
+[INFO ] 2023-02-03 15:14:42.894 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-03 15:15:52.968 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 15:15:53.117 [main] Log - Browser maximized
+[INFO ] 2023-02-03 15:15:58.563 [main] Log - Entered From Date
+[INFO ] 2023-02-03 15:15:59.681 [main] Log - Entered To Date
+[INFO ] 2023-02-03 15:16:06.463 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-03 15:27:16.535 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 15:27:16.701 [main] Log - Browser maximized
+[INFO ] 2023-02-03 15:27:22.036 [main] Log - Entered From Date
+[INFO ] 2023-02-03 15:27:23.069 [main] Log - Entered To Date
+[INFO ] 2023-02-03 15:27:28.131 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-03 17:17:23.562 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 17:17:23.733 [main] Log - Browser maximized
+[INFO ] 2023-02-03 17:17:28.785 [main] Log - Entered From Date
+[INFO ] 2023-02-03 17:17:29.817 [main] Log - Entered To Date
+[INFO ] 2023-02-03 17:17:34.748 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-03 17:18:36.348 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 17:18:36.500 [main] Log - Browser maximized
+[INFO ] 2023-02-03 17:18:41.566 [main] Log - Entered From Date
+[INFO ] 2023-02-03 17:18:42.599 [main] Log - Entered To Date
+[INFO ] 2023-02-03 17:18:47.310 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-03 17:19:37.873 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-03 17:19:38.021 [main] Log - Browser maximized
+[INFO ] 2023-02-03 17:19:42.963 [main] Log - Entered From Date
+[INFO ] 2023-02-03 17:19:43.990 [main] Log - Entered To Date
+[INFO ] 2023-02-03 17:19:48.720 [main] Log - Clicked on Submit button

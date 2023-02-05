@@ -1,4 +1,4 @@
-package MakeMyTrip.Data;
+package PHPTravels.Data;
 
 import java.io.File;
 import java.io.IOException;

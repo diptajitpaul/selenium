@@ -1,6 +1,6 @@
-package MakeMyTrip.Tests;
-import MakeMyTrip.Base.Base;
-import MakeMyTrip.PageObjects.Home;
+package PHPTravels.Tests;
+import PHPTravels.Base.Base;
+import PHPTravels.PageObjects.Home;
 
 import java.util.HashMap;
 

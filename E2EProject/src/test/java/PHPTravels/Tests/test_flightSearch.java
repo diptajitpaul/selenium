@@ -1,8 +1,9 @@
-package MakeMyTrip.Tests;
-import MakeMyTrip.Base.Base;
-import MakeMyTrip.PageObjects.FlightSearchResult;
-import MakeMyTrip.PageObjects.Home;
-import MakeMyTrip.Resources.Log;
+package PHPTravels.Tests;
+import PHPTravels.Base.Base;
+import PHPTravels.PageObjects.FlightSearchResult;
+import PHPTravels.PageObjects.Home;
+import PHPTravels.Resources.Log;
+
 import java.io.IOException;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

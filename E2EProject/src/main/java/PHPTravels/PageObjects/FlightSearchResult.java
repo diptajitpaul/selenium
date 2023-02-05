@@ -1,4 +1,4 @@
-package MakeMyTrip.PageObjects;
+package PHPTravels.PageObjects;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

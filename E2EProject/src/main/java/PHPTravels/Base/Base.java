@@ -1,11 +1,11 @@
-package MakeMyTrip.Base;
+package PHPTravels.Base;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.time.Duration;
 import java.util.Properties;
-import MakeMyTrip.Resources.Log;
+
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -17,6 +17,8 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.*;
 
+import PHPTravels.Resources.Log;
+
 
 public class Base {
 
@@ -25,21 +27,23 @@ public class Base {
 	public WebDriver initializeDriver() throws IOException
 	{
 		Properties prop=new Properties();
-		FileInputStream fis=new FileInputStream("C:\\Users\\User\\eclipse-workspace\\E2EProject\\src\\main\\resources\\MakeMyTrip\\Resources.properties");
+		FileInputStream fis=new FileInputStream("C:\\Users\\User\\git\\selenium\\E2EProject\\src\\main\\resources\\PHPTravels\\Resources.properties");
 		prop.load(fis);
 		String browser=prop.getProperty("browser");
 		String url=prop.getProperty("url");
 		
-		System.setProperty("webdriver.chrome.driver", "C:\\Selenium\\Browser Drivers\\chromedriver.exe");
+		
 		
 		if(browser.equalsIgnoreCase("chrome"))
 		{
+			System.setProperty("webdriver.chrome.driver", "C:\\Selenium\\Browser Drivers\\chromedriver.exe");
 			driver=new ChromeDriver();
 			driver.get(url);
 			Log.info("Chrome Driver initiated");
 		}
 		if(browser.equalsIgnoreCase("firefox"))
 		{
+			System.setProperty("webdriver.gecko.driver", "C:\\Selenium\\Browser Drivers\\geckodriver.exe");
 			driver=new FirefoxDriver();
 			driver.get(url);
 			Log.info("Firefox Driver initiated");

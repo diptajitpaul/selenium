@@ -1,4 +1,4 @@
-package MakeMyTrip.Resources;
+package PHPTravels.Resources;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.ITestContext ;		
@@ -9,7 +9,7 @@ import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 
-import MakeMyTrip.Base.Base;
+import PHPTravels.Base.Base;
 
 public class Listener extends Base implements ITestListener{
 	

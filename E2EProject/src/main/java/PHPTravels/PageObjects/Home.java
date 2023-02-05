@@ -1,4 +1,4 @@
-package MakeMyTrip.PageObjects;
+package PHPTravels.PageObjects;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -14,8 +14,9 @@ public class Home {
 		this.driver=driver;
 	}
 	
+	//By loginButton=By.cssSelector("li.makeFlex.hrtlCenter.font10.makeRelative.lhUser.userLoggedOut");
 	By flightsMenu=By.cssSelector("ul.makeFlex.font12>li.menu_Flights>div>a");
-	By hotelsMenu=By.cssSelector("ul.makeFlex.font12>li.menu_Hotels>div>a");
+	By hotelsMenu=By.cssSelector("li.menu_Hotels");
 	By homestaysMenu=By.cssSelector("ul.makeFlex.font12>li.menu_Homestays>div>a");
 	By holidaypackagesMenu=By.cssSelector("ul.makeFlex.font12>li.menu_Holidays>div>a");
 	By trainsMenu=By.cssSelector("ul.makeFlex.font12>li.menu_Trains>div>a");
