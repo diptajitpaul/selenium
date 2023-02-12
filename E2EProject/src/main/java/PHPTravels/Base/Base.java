@@ -22,14 +22,18 @@ import PHPTravels.Resources.Log;
 
 public class Base {
 
-	protected WebDriver driver;
+	public static WebDriver driver;
 	
 	public WebDriver initializeDriver() throws IOException
 	{
+		try {
 		Properties prop=new Properties();
 		FileInputStream fis=new FileInputStream("C:\\Users\\User\\git\\selenium\\E2EProject\\src\\main\\resources\\PHPTravels\\Resources.properties");
 		prop.load(fis);
-		String browser=prop.getProperty("browser");
+		
+		String browser=System.getProperty("browser")!=null ? System.getProperty("browser") : prop.getProperty("browser");
+		
+		//String browser=prop.getProperty("browser");
 		String url=prop.getProperty("url");
 		
 		
@@ -44,7 +48,7 @@ public class Base {
 		if(browser.equalsIgnoreCase("firefox"))
 		{
 			System.setProperty("webdriver.gecko.driver", "C:\\Selenium\\Browser Drivers\\geckodriver.exe");
-			driver=new FirefoxDriver();
+			driver = new FirefoxDriver();
 			driver.get(url);
 			Log.info("Firefox Driver initiated");
 		}
@@ -52,6 +56,11 @@ public class Base {
 		Log.info("Browser maximized");
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		
+	}
+	catch(Exception e)
+	{
+		System.out.println(e.getMessage());
+	}
 		return driver;
 	}
 	

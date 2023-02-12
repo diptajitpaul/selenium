@@ -4,14 +4,14 @@
 <listeners>
 <listener class-name="PHPTravels.Resources.Listener"/>
 </listeners>
-<test thread-count="5" name="validateHomePageMenus">
+<test thread-count="5" name="homePage">
     <classes>
-      <class name="PHPTravels.Tests.test_validateHomePageMenus"/>
+      <class name="PHPTravels.Tests.test_validateHomePage"/>
     </classes>
 </test> <!-- Test -->
-<test thread-count="5" name="flightSearch">
+<test thread-count="5" name="hotelsPage">
     <classes>
-      <class name="PHPTravels.Tests.test_flightSearch"/>
+      <class name="PHPTravels.Tests.test_validateHotelsPage"/>
     </classes>
 </test> <!-- Test -->
 </suite> <!-- Suite -->

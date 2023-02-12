@@ -3,14 +3,16 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="PHPTravels.Tests.validateHomePage">
+      <class name="PHPTravels.Tests.test_validateHomePage">
         <methods>
           <include name="intializeTest"/>
           <include name="endTest"/>
+          <include name="validateFlightsMenu"/>
+          <include name="validateHotelsMenu"/>
+          <include name="validateBritishAirways"/>
           <include name="validatePageTitle"/>
-          <include name="getDriver"/>
         </methods>
-      </class> <!-- PHPTravels.Tests.validateHomePage -->
+      </class> <!-- PHPTravels.Tests.test_validateHomePage -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
