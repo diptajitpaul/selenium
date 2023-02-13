@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.time.Duration;
 import java.util.Properties;
 
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -14,6 +15,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.io.FileHandler;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.*;
 
@@ -90,11 +92,14 @@ public class Base {
 		driver.quit();
 	}
 	
-	public WebElement wait(WebElement webelement)
+	public void fluentWait(WebElement webelement)
 	{
-		WebDriverWait wait=new WebDriverWait(driver, Duration.ofSeconds(5));
-		return wait.until(ExpectedConditions.visibilityOf(webelement));
+		FluentWait wait = new FluentWait(driver);
+		wait.withTimeout(Duration.ofSeconds(20));
+		wait.pollingEvery(Duration.ofSeconds(5));
+		wait.until(ExpectedConditions.visibilityOf(webelement));
 	}
+	
 	
 	
 
