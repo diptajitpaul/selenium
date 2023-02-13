@@ -77,14 +77,14 @@ public class Base {
 		
 	}
 	
-	@BeforeTest(alwaysRun=true)
+	@BeforeClass(alwaysRun=true)
 	public void intializeTest() throws Exception
 	{
 		driver=initializeDriver();
 
 	}
 	
-	@AfterTest(alwaysRun=true)
+	@AfterClass(alwaysRun=true)
 	public void endTest()
 
 	{

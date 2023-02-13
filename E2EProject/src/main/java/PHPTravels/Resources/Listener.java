@@ -22,12 +22,12 @@ public class Listener extends Base implements ITestListener{
 	protected String screenshotPath;
 	
 	public void onStart(ITestContext context) {
-		//This method is called at begining of every <test> node of TestNG xml. If there are 3 <test> nodes in the testng.xml, then it will be called 3 times.
+		//This method is called at beginning of every <test> node of TestNG xml. If there are 3 <test> nodes in the testng.xml, then it will be called 3 times.
 	}
 	
 	
 	public void onTestStart(ITestResult result) {
-		//This method is called at begining of every TestNG test.
+		//This method is called at beginning of every TestNG test.
 		// creates a toggle for the given test, adds all log events under it    
         test = extent.createTest(result.getMethod().getMethodName());
         extentTest.set(test);

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Suite" parallel="false">
+<suite name="Suite" parallel="none">
 <listeners>
 <listener class-name="PHPTravels.Resources.Listener"/>
 </listeners>
 <test thread-count="1" name="homePage">
     <classes>
       <class name="PHPTravels.Tests.test_validateHomePage"/>
+      <class name="PHPTravels.Tests.test_validateHotelsPage"/>
     </classes>
 </test> <!-- Test -->
-
-<test thread-count="1" name="hotelsPage">
+<test thread-count="1" name="hotepsPage">
     <classes>
       <class name="PHPTravels.Tests.test_validateHotelsPage"/>
     </classes>
