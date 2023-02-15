@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+<suite parallel="classes" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <listeners>
     <listener class-name="PHPTravels.Resources.Listener"/>
   </listeners>
-  <test thread-count="5" parallel="tests" name="homePage(failed)">
+  <test thread-count="5" parallel="classes" name="homePage(failed)">
     <classes>
       <class name="PHPTravels.Tests.test_validateHotelsPage">
         <methods>
@@ -13,16 +13,17 @@
           <include name="searchHotel"/>
         </methods>
       </class> <!-- PHPTravels.Tests.test_validateHotelsPage -->
-      <class name="PHPTravels.Tests.test_validateHomePage">
+    </classes>
+  </test> <!-- homePage(failed) -->
+  <test thread-count="5" parallel="classes" name="hotepsPage(failed)">
+    <classes>
+      <class name="PHPTravels.Tests.test_validateHotelsPage">
         <methods>
           <include name="intializeTest"/>
           <include name="endTest"/>
-          <include name="validateFlightsMenu"/>
-          <include name="validateHotelsMenu"/>
-          <include name="validate3rdCarosolCard"/>
-          <include name="validateBritishAirways"/>
+          <include name="searchHotel"/>
         </methods>
-      </class> <!-- PHPTravels.Tests.test_validateHomePage -->
+      </class> <!-- PHPTravels.Tests.test_validateHotelsPage -->
     </classes>
-  </test> <!-- homePage(failed) -->
+  </test> <!-- hotepsPage(failed) -->
 </suite> <!-- Failed suite [Suite] -->

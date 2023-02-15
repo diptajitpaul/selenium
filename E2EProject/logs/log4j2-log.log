@@ -1249,3 +1249,228 @@ Session ID: 4a52889a017fee9ac15c65a45d317b37
 [INFO ] 2023-02-13 17:52:47.487 [main] Log - Entered To Date
 [INFO ] 2023-02-13 17:52:50.809 [main] Log - Clicked on Submit button
 [INFO ] 2023-02-13 17:52:55.876 [main] Log - Flight search result page is displayed
+[INFO ] 2023-02-14 11:08:10.397 [TestNG-tests-2] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 11:08:10.397 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 11:08:10.426 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-14 11:08:10.478 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-14 11:08:10.581 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-14 11:08:24.712 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 11:08:24.748 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-14 11:13:15.254 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 11:13:15.254 [TestNG-tests-2] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 11:13:15.284 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-14 11:13:15.345 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-14 11:13:21.252 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-14 11:17:25.941 [TestNG-tests-2] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 11:17:26.354 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 11:17:26.355 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-14 11:17:26.364 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-14 11:17:37.307 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-14 11:18:17.416 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 11:18:17.475 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-14 11:22:38.496 [TestNG-tests-2] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 11:22:38.504 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 11:22:38.543 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-14 11:22:38.544 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-14 11:22:41.905 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-14 11:22:54.025 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 11:22:54.050 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-14 12:11:28.292 [TestNG-tests-2] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:11:28.625 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:11:28.629 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-14 12:11:28.714 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-14 12:11:34.979 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-14 12:11:44.852 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:11:44.905 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-14 12:14:59.370 [TestNG-test=homePage-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:14:59.370 [TestNG-test=homePage-2] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:14:59.397 [TestNG-test=homePage-1] Log - Browser maximized
+[INFO ] 2023-02-14 12:14:59.428 [TestNG-test=homePage-2] Log - Browser maximized
+[INFO ] 2023-02-14 12:14:59.494 [TestNG-test=homePage-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-14 12:14:59.669 [TestNG-test=homePage-1] Log - Retrived Hotels text
+[INFO ] 2023-02-14 12:14:59.669 [TestNG-test=homePage-1] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-14 12:14:59.748 [TestNG-test=homePage-1] Log - Retrived Flights text
+[INFO ] 2023-02-14 12:14:59.748 [TestNG-test=homePage-1] Log - Validated that Flights menu is present
+[INFO ] 2023-02-14 12:15:22.545 [TestNG-test=hotepsPage-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:15:22.580 [TestNG-test=hotepsPage-1] Log - Browser maximized
+[INFO ] 2023-02-14 12:17:29.225 [TestNG-test=homePage-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:17:29.220 [TestNG-test=homePage-2] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:17:29.257 [TestNG-test=homePage-2] Log - Browser maximized
+[INFO ] 2023-02-14 12:17:29.297 [TestNG-test=homePage-1] Log - Browser maximized
+[INFO ] 2023-02-14 12:17:29.378 [TestNG-test=homePage-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-14 12:17:29.600 [TestNG-test=homePage-1] Log - Retrived Hotels text
+[INFO ] 2023-02-14 12:17:29.601 [TestNG-test=homePage-1] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-14 12:17:29.678 [TestNG-test=homePage-1] Log - Retrived Flights text
+[INFO ] 2023-02-14 12:17:29.679 [TestNG-test=homePage-1] Log - Validated that Flights menu is present
+[INFO ] 2023-02-14 12:17:42.246 [TestNG-test=hotepsPage-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:17:42.261 [TestNG-test=hotepsPage-1] Log - Browser maximized
+[INFO ] 2023-02-14 12:22:13.603 [TestNG-test=homePage-2] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:22:13.603 [TestNG-test=homePage-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:22:13.633 [TestNG-test=homePage-2] Log - Browser maximized
+[INFO ] 2023-02-14 12:22:13.637 [TestNG-test=homePage-1] Log - Browser maximized
+[INFO ] 2023-02-14 12:22:13.716 [TestNG-test=homePage-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-14 12:22:13.874 [TestNG-test=homePage-1] Log - Retrived Hotels text
+[INFO ] 2023-02-14 12:22:13.874 [TestNG-test=homePage-1] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-14 12:22:13.931 [TestNG-test=homePage-1] Log - Retrived Flights text
+[INFO ] 2023-02-14 12:22:13.931 [TestNG-test=homePage-1] Log - Validated that Flights menu is present
+[INFO ] 2023-02-14 12:22:14.214 [TestNG-test=homePage-1] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-14 12:22:14.392 [TestNG-test=homePage-1] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-14 12:22:26.425 [TestNG-test=hotepsPage-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:22:26.475 [TestNG-test=hotepsPage-1] Log - Browser maximized
+[INFO ] 2023-02-14 12:23:25.155 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:23:25.191 [main] Log - Browser maximized
+[INFO ] 2023-02-14 12:24:04.835 [TestNG-test=homePage-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:24:04.835 [TestNG-test=homePage-2] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:24:04.860 [TestNG-test=homePage-1] Log - Browser maximized
+[INFO ] 2023-02-14 12:24:04.888 [TestNG-test=homePage-2] Log - Browser maximized
+[INFO ] 2023-02-14 12:24:04.948 [TestNG-test=homePage-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-14 12:24:05.318 [TestNG-test=homePage-1] Log - Retrived Hotels text
+[INFO ] 2023-02-14 12:24:05.319 [TestNG-test=homePage-1] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-14 12:24:05.356 [TestNG-test=homePage-1] Log - Retrived Flights text
+[INFO ] 2023-02-14 12:24:05.356 [TestNG-test=homePage-1] Log - Validated that Flights menu is present
+[INFO ] 2023-02-14 12:24:05.589 [TestNG-test=homePage-1] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-14 12:24:05.710 [TestNG-test=homePage-1] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-14 12:24:15.685 [TestNG-test=hotepsPage-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:24:15.712 [TestNG-test=hotepsPage-1] Log - Browser maximized
+[INFO ] 2023-02-14 12:26:23.553 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:26:23.592 [main] Log - Browser maximized
+[INFO ] 2023-02-14 12:29:24.258 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:29:24.305 [main] Log - Browser maximized
+[INFO ] 2023-02-14 12:29:24.626 [main] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-14 12:30:37.904 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:30:37.994 [main] Log - Browser maximized
+[INFO ] 2023-02-14 12:30:38.368 [main] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-14 12:46:04.201 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:46:04.242 [main] Log - Browser maximized
+[INFO ] 2023-02-14 12:46:13.560 [main] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-14 12:46:32.351 [main] Log - Retrived Hotels text
+[INFO ] 2023-02-14 12:46:32.351 [main] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-14 12:46:51.716 [main] Log - Retrived Flights text
+[INFO ] 2023-02-14 12:46:57.699 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-14 12:47:17.490 [main] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-14 12:48:08.545 [main] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-14 12:48:43.869 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:48:43.922 [main] Log - Browser maximized
+[INFO ] 2023-02-14 12:48:43.995 [main] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-14 12:48:44.107 [main] Log - Retrived Hotels text
+[INFO ] 2023-02-14 12:48:44.108 [main] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-14 12:48:44.141 [main] Log - Retrived Flights text
+[INFO ] 2023-02-14 12:48:44.142 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-14 12:48:59.645 [main] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-14 12:48:59.758 [main] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-14 12:56:25.183 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:56:25.202 [main] Log - Browser maximized
+[INFO ] 2023-02-14 12:56:31.930 [main] Log - Entered From Date
+[INFO ] 2023-02-14 12:56:32.991 [main] Log - Entered To Date
+[INFO ] 2023-02-14 12:56:37.871 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-14 12:56:42.948 [main] Log - Flight search result page is displayed
+[INFO ] 2023-02-14 12:57:04.879 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-14 12:57:04.909 [main] Log - Browser maximized
+[INFO ] 2023-02-14 12:57:04.962 [main] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-15 00:02:14.322 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 00:02:14.348 [main] Log - Browser maximized
+[INFO ] 2023-02-15 00:02:14.395 [main] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-15 00:02:14.514 [main] Log - Retrived Hotels text
+[INFO ] 2023-02-15 00:02:14.515 [main] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-15 00:02:14.552 [main] Log - Retrived Flights text
+[INFO ] 2023-02-15 00:02:14.552 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-15 00:02:14.740 [main] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-15 00:02:14.842 [main] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-15 00:02:58.301 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 00:02:58.345 [main] Log - Browser maximized
+[INFO ] 2023-02-15 00:02:58.390 [main] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-15 00:02:58.472 [main] Log - Retrived Hotels text
+[INFO ] 2023-02-15 00:02:58.472 [main] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-15 00:02:58.517 [main] Log - Retrived Flights text
+[INFO ] 2023-02-15 00:02:58.517 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-15 00:02:58.764 [main] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-15 00:02:58.856 [main] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-15 00:03:26.238 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 00:03:26.269 [main] Log - Browser maximized
+[INFO ] 2023-02-15 00:10:04.949 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 00:10:04.968 [main] Log - Browser maximized
+[INFO ] 2023-02-15 00:10:44.279 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 00:10:44.319 [main] Log - Browser maximized
+[INFO ] 2023-02-15 00:15:34.766 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 00:15:34.797 [main] Log - Browser maximized
+[INFO ] 2023-02-15 00:16:01.664 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 00:16:01.692 [main] Log - Browser maximized
+[INFO ] 2023-02-15 16:36:55.041 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:36:55.159 [main] Log - Browser maximized
+[INFO ] 2023-02-15 16:38:48.854 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:38:48.883 [main] Log - Browser maximized
+[INFO ] 2023-02-15 16:40:48.669 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:40:48.692 [main] Log - Browser maximized
+[INFO ] 2023-02-15 16:42:44.259 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:42:44.278 [main] Log - Browser maximized
+[INFO ] 2023-02-15 16:46:19.097 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:46:19.116 [main] Log - Browser maximized
+[INFO ] 2023-02-15 16:48:09.015 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:48:09.044 [main] Log - Browser maximized
+[INFO ] 2023-02-15 16:49:14.798 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:49:14.826 [main] Log - Browser maximized
+[INFO ] 2023-02-15 16:50:34.252 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:50:34.298 [main] Log - Browser maximized
+[INFO ] 2023-02-15 16:51:31.805 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:51:31.831 [main] Log - Browser maximized
+[INFO ] 2023-02-15 16:52:37.307 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:52:37.338 [main] Log - Browser maximized
+[INFO ] 2023-02-15 16:53:36.473 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:53:36.499 [main] Log - Browser maximized
+[INFO ] 2023-02-15 16:54:16.697 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:54:16.735 [main] Log - Browser maximized
+[INFO ] 2023-02-15 16:54:23.552 [main] Log - Entered From Date
+[INFO ] 2023-02-15 16:54:24.593 [main] Log - Entered To Date
+[INFO ] 2023-02-15 16:54:29.001 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-15 16:54:34.086 [main] Log - Flight search result page is displayed
+[INFO ] 2023-02-15 16:55:28.265 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:55:28.290 [main] Log - Browser maximized
+[INFO ] 2023-02-15 16:55:28.395 [main] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-15 16:55:28.509 [main] Log - Retrived Hotels text
+[INFO ] 2023-02-15 16:55:28.510 [main] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-15 16:55:28.555 [main] Log - Retrived Flights text
+[INFO ] 2023-02-15 16:55:28.556 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-15 16:55:28.766 [main] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-15 16:55:28.869 [main] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-15 16:56:05.405 [TestNG-test=homePage-2] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:56:05.449 [TestNG-test=homePage-2] Log - Browser maximized
+[INFO ] 2023-02-15 16:56:07.807 [TestNG-test=homePage-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:56:07.822 [TestNG-test=homePage-1] Log - Browser maximized
+[INFO ] 2023-02-15 16:56:07.867 [TestNG-test=homePage-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-15 16:56:08.222 [TestNG-test=homePage-1] Log - Retrived Hotels text
+[INFO ] 2023-02-15 16:56:08.222 [TestNG-test=homePage-1] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-15 16:56:08.275 [TestNG-test=homePage-1] Log - Retrived Flights text
+[INFO ] 2023-02-15 16:56:08.275 [TestNG-test=homePage-1] Log - Validated that Flights menu is present
+[INFO ] 2023-02-15 16:56:08.450 [TestNG-test=homePage-1] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-15 16:56:08.542 [TestNG-test=homePage-1] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-15 16:56:12.289 [TestNG-test=homePage-2] Log - Entered From Date
+[INFO ] 2023-02-15 16:56:13.302 [TestNG-test=homePage-2] Log - Entered To Date
+[INFO ] 2023-02-15 16:56:19.222 [TestNG-test=homePage-2] Log - Clicked on Submit button
+[INFO ] 2023-02-15 16:56:24.290 [TestNG-test=homePage-2] Log - Flight search result page is displayed
+[INFO ] 2023-02-15 16:56:35.074 [TestNG-test=hotepsPage-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:56:35.157 [TestNG-test=hotepsPage-1] Log - Browser maximized
+[INFO ] 2023-02-15 16:56:47.011 [TestNG-test=hotepsPage-1] Log - Entered From Date
+[INFO ] 2023-02-15 16:56:48.042 [TestNG-test=hotepsPage-1] Log - Entered To Date
+[INFO ] 2023-02-15 16:56:51.587 [TestNG-test=hotepsPage-1] Log - Clicked on Submit button
+[INFO ] 2023-02-15 16:56:56.656 [TestNG-test=hotepsPage-1] Log - Flight search result page is displayed
+[INFO ] 2023-02-15 16:57:57.359 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:57:57.359 [TestNG-tests-2] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:57:57.382 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-15 16:57:57.382 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-15 16:57:57.459 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-15 16:58:04.153 [TestNG-tests-2] Log - Entered From Date
+[INFO ] 2023-02-15 16:58:05.170 [TestNG-tests-2] Log - Entered To Date
+[INFO ] 2023-02-15 16:58:07.616 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-15 16:58:07.636 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-15 16:58:09.834 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2023-02-15 16:58:14.891 [TestNG-tests-2] Log - Flight search result page is displayed
+[INFO ] 2023-02-15 16:58:19.621 [TestNG-tests-1] Log - Entered From Date
+[INFO ] 2023-02-15 16:58:20.654 [TestNG-tests-1] Log - Entered To Date
+[INFO ] 2023-02-15 16:58:24.320 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2023-02-15 16:58:29.370 [TestNG-tests-1] Log - Flight search result page is displayed
+[INFO ] 2023-02-15 16:58:31.052 [TestNG-tests-1] Log - Retrived Hotels text
+[INFO ] 2023-02-15 16:58:31.053 [TestNG-tests-1] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-15 16:58:31.081 [TestNG-tests-1] Log - Retrived Flights text
+[INFO ] 2023-02-15 16:58:31.082 [TestNG-tests-1] Log - Validated that Flights menu is present
+[INFO ] 2023-02-15 16:58:31.242 [TestNG-tests-1] Log - Validated that BritishAirways logo is displayed
+[INFO ] 2023-02-15 16:58:31.348 [TestNG-tests-1] Log - Validated that Carosol 3rd card text
