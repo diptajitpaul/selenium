@@ -43,6 +43,7 @@ public class Base {
 		{
 			System.setProperty("webdriver.chrome.driver", "C:\\Selenium\\Browser Drivers\\chromedriver.exe");
 			driver=new ChromeDriver();
+			driver.manage().deleteAllCookies();
 			driver.get(url);
 			Log.info("Chrome Driver initiated");
 		}
@@ -50,6 +51,7 @@ public class Base {
 		{
 			System.setProperty("webdriver.gecko.driver", "C:\\Selenium\\Browser Drivers\\geckodriver.exe");
 			driver = new FirefoxDriver();
+			driver.manage().deleteAllCookies();
 			driver.get(url);
 			Log.info("Firefox Driver initiated");
 		}

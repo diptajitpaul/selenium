@@ -1474,3 +1474,235 @@ Session ID: 4a52889a017fee9ac15c65a45d317b37
 [INFO ] 2023-02-15 16:58:31.082 [TestNG-tests-1] Log - Validated that Flights menu is present
 [INFO ] 2023-02-15 16:58:31.242 [TestNG-tests-1] Log - Validated that BritishAirways logo is displayed
 [INFO ] 2023-02-15 16:58:31.348 [TestNG-tests-1] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-16 01:04:49.074 [TestNG-tests-2] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:04:49.074 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:04:49.091 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-16 01:04:49.092 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-16 01:04:49.136 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-16 01:04:55.744 [TestNG-tests-2] Log - Entered From Date
+[INFO ] 2023-02-16 01:04:56.795 [TestNG-tests-2] Log - Entered To Date
+[INFO ] 2023-02-16 01:05:01.347 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2023-02-16 01:05:02.084 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:05:02.132 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-16 01:05:06.411 [TestNG-tests-2] Log - Flight search result page is displayed
+[INFO ] 2023-02-16 01:05:08.991 [TestNG-tests-1] Log - Entered From Date
+[INFO ] 2023-02-16 01:05:10.008 [TestNG-tests-1] Log - Entered To Date
+[INFO ] 2023-02-16 01:05:13.506 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2023-02-16 01:05:18.556 [TestNG-tests-1] Log - Flight search result page is displayed
+[INFO ] 2023-02-16 01:05:19.738 [TestNG-tests-1] Log - Retrived Hotels text
+[INFO ] 2023-02-16 01:05:19.738 [TestNG-tests-1] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-16 01:05:19.760 [TestNG-tests-1] Log - Retrived Flights text
+[INFO ] 2023-02-16 01:05:19.760 [TestNG-tests-1] Log - Validated that Flights menu is present
+[INFO ] 2023-02-16 01:06:46.993 [TestNG-test=homePage-2] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:06:46.993 [TestNG-test=homePage-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:06:47.026 [TestNG-test=homePage-2] Log - Browser maximized
+[INFO ] 2023-02-16 01:06:47.043 [TestNG-test=homePage-1] Log - Browser maximized
+[INFO ] 2023-02-16 01:06:47.125 [TestNG-test=homePage-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-16 01:06:47.367 [TestNG-test=homePage-1] Log - Retrived Hotels text
+[INFO ] 2023-02-16 01:06:47.367 [TestNG-test=homePage-1] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-16 01:06:47.401 [TestNG-test=homePage-1] Log - Retrived Flights text
+[INFO ] 2023-02-16 01:06:47.402 [TestNG-test=homePage-1] Log - Validated that Flights menu is present
+[INFO ] 2023-02-16 01:06:53.821 [TestNG-test=homePage-2] Log - Entered From Date
+[INFO ] 2023-02-16 01:06:54.838 [TestNG-test=homePage-2] Log - Entered To Date
+[INFO ] 2023-02-16 01:06:58.736 [TestNG-test=homePage-2] Log - Clicked on Submit button
+[INFO ] 2023-02-16 01:07:03.810 [TestNG-test=homePage-2] Log - Flight search result page is displayed
+[INFO ] 2023-02-16 01:07:39.655 [TestNG-test=hotepsPage-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:07:39.669 [TestNG-test=hotepsPage-1] Log - Browser maximized
+[INFO ] 2023-02-16 01:07:51.250 [TestNG-test=hotepsPage-1] Log - Entered From Date
+[INFO ] 2023-02-16 01:07:52.274 [TestNG-test=hotepsPage-1] Log - Entered To Date
+[INFO ] 2023-02-16 01:07:55.743 [TestNG-test=hotepsPage-1] Log - Clicked on Submit button
+[INFO ] 2023-02-16 01:08:00.799 [TestNG-test=hotepsPage-1] Log - Flight search result page is displayed
+[INFO ] 2023-02-16 01:19:40.738 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:19:40.769 [main] Log - Browser maximized
+[INFO ] 2023-02-16 01:19:40.827 [main] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-16 01:19:40.949 [main] Log - Retrived Hotels text
+[INFO ] 2023-02-16 01:19:40.950 [main] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-16 01:19:40.984 [main] Log - Retrived Flights text
+[INFO ] 2023-02-16 01:19:40.985 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-16 01:20:01.160 [main] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-16 01:20:34.388 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:20:34.422 [main] Log - Browser maximized
+[INFO ] 2023-02-16 01:20:41.020 [main] Log - Entered From Date
+[INFO ] 2023-02-16 01:26:40.481 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:26:40.501 [main] Log - Browser maximized
+[INFO ] 2023-02-16 01:26:46.243 [main] Log - Entered From Date
+[INFO ] 2023-02-16 01:26:47.505 [main] Log - Entered To Date
+[INFO ] 2023-02-16 01:26:48.782 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-16 01:27:11.370 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:27:11.404 [main] Log - Browser maximized
+[INFO ] 2023-02-16 01:27:18.035 [main] Log - Entered From Date
+[INFO ] 2023-02-16 01:27:19.290 [main] Log - Entered To Date
+[INFO ] 2023-02-16 01:27:25.061 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-16 01:27:30.114 [main] Log - Flight search result page is displayed
+[INFO ] 2023-02-16 01:31:40.012 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:31:40.040 [main] Log - Browser maximized
+[INFO ] 2023-02-16 01:31:42.794 [main] Log - Entered From Date
+[INFO ] 2023-02-16 01:31:44.038 [main] Log - Entered To Date
+[INFO ] 2023-02-16 01:31:45.323 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-16 01:31:50.375 [main] Log - Flight search result page is displayed
+[INFO ] 2023-02-16 01:33:53.103 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:33:53.146 [main] Log - Browser maximized
+[INFO ] 2023-02-16 01:33:56.132 [main] Log - Entered From Date
+[INFO ] 2023-02-16 01:33:57.413 [main] Log - Entered To Date
+[INFO ] 2023-02-16 01:33:58.705 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-16 01:34:46.658 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:34:46.694 [main] Log - Browser maximized
+[INFO ] 2023-02-16 01:35:35.236 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:35:35.273 [main] Log - Browser maximized
+[INFO ] 2023-02-16 01:39:07.883 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:39:07.912 [main] Log - Browser maximized
+[INFO ] 2023-02-16 01:39:10.699 [main] Log - Entered From Date
+[INFO ] 2023-02-16 01:39:11.954 [main] Log - Entered To Date
+[INFO ] 2023-02-16 01:39:13.245 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-16 01:42:34.176 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:42:34.206 [main] Log - Browser maximized
+[INFO ] 2023-02-16 01:42:39.514 [main] Log - Entered From Date
+[INFO ] 2023-02-16 01:42:40.789 [main] Log - Entered To Date
+[INFO ] 2023-02-16 01:42:45.398 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-16 01:42:50.473 [main] Log - Flight search result page is displayed
+[INFO ] 2023-02-16 01:43:17.276 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:43:17.326 [main] Log - Browser maximized
+[INFO ] 2023-02-16 01:43:22.583 [main] Log - Entered From Date
+[INFO ] 2023-02-16 01:43:23.826 [main] Log - Entered To Date
+[INFO ] 2023-02-16 01:43:27.678 [main] Log - Clicked on Submit button
+[INFO ] 2023-02-16 01:43:32.760 [main] Log - Flight search result page is displayed
+[INFO ] 2023-02-16 01:45:07.924 [TestNG-tests-2] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:45:07.924 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:45:07.948 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-16 01:45:07.958 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-16 01:45:08.024 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-16 01:45:13.327 [TestNG-tests-2] Log - Entered From Date
+[INFO ] 2023-02-16 01:45:14.650 [TestNG-tests-2] Log - Entered To Date
+[INFO ] 2023-02-16 01:45:19.220 [TestNG-tests-2] Log - Clicked on Submit button
+[INFO ] 2023-02-16 01:45:21.806 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:45:21.840 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-16 01:45:24.272 [TestNG-tests-2] Log - Flight search result page is displayed
+[INFO ] 2023-02-16 01:45:31.703 [TestNG-tests-1] Log - Entered From Date
+[INFO ] 2023-02-16 01:45:32.965 [TestNG-tests-1] Log - Entered To Date
+[INFO ] 2023-02-16 01:45:36.513 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2023-02-16 01:45:41.568 [TestNG-tests-1] Log - Flight search result page is displayed
+[INFO ] 2023-02-16 01:45:42.741 [TestNG-tests-1] Log - Retrived Hotels text
+[INFO ] 2023-02-16 01:45:42.742 [TestNG-tests-1] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-16 01:45:42.761 [TestNG-tests-1] Log - Retrived Flights text
+[INFO ] 2023-02-16 01:45:42.762 [TestNG-tests-1] Log - Validated that Flights menu is present
+[INFO ] 2023-02-16 01:46:02.914 [TestNG-tests-1] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-16 01:47:12.220 [TestNG-test=homePage-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:47:12.220 [TestNG-test=homePage-2] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:47:12.236 [TestNG-test=homePage-2] Log - Browser maximized
+[INFO ] 2023-02-16 01:47:12.237 [TestNG-test=homePage-1] Log - Browser maximized
+[INFO ] 2023-02-16 01:47:12.276 [TestNG-test=homePage-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-16 01:47:12.435 [TestNG-test=homePage-1] Log - Retrived Hotels text
+[INFO ] 2023-02-16 01:47:12.436 [TestNG-test=homePage-1] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-16 01:47:12.466 [TestNG-test=homePage-1] Log - Retrived Flights text
+[INFO ] 2023-02-16 01:47:12.466 [TestNG-test=homePage-1] Log - Validated that Flights menu is present
+[INFO ] 2023-02-16 01:47:18.092 [TestNG-test=homePage-2] Log - Entered From Date
+[INFO ] 2023-02-16 01:47:19.366 [TestNG-test=homePage-2] Log - Entered To Date
+[INFO ] 2023-02-16 01:47:24.125 [TestNG-test=homePage-2] Log - Clicked on Submit button
+[INFO ] 2023-02-16 01:47:29.179 [TestNG-test=homePage-2] Log - Flight search result page is displayed
+[INFO ] 2023-02-16 01:47:32.626 [TestNG-test=homePage-1] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-16 01:47:45.498 [TestNG-test=hotepsPage-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 01:47:45.523 [TestNG-test=hotepsPage-1] Log - Browser maximized
+[INFO ] 2023-02-16 01:47:55.374 [TestNG-test=hotepsPage-1] Log - Entered From Date
+[INFO ] 2023-02-16 01:47:56.637 [TestNG-test=hotepsPage-1] Log - Entered To Date
+[INFO ] 2023-02-16 01:48:00.161 [TestNG-test=hotepsPage-1] Log - Clicked on Submit button
+[INFO ] 2023-02-16 01:48:05.192 [TestNG-test=hotepsPage-1] Log - Flight search result page is displayed
+[INFO ] 2023-02-16 14:07:25.988 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 14:07:26.019 [main] Log - Browser maximized
+[INFO ] 2023-02-16 14:08:54.709 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 14:08:54.741 [main] Log - Browser maximized
+[INFO ] 2023-02-16 14:13:53.953 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 14:13:53.981 [main] Log - Browser maximized
+[INFO ] 2023-02-16 16:10:07.643 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:10:07.673 [main] Log - Browser maximized
+[INFO ] 2023-02-16 16:10:41.116 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:10:41.140 [main] Log - Browser maximized
+[INFO ] 2023-02-16 16:12:02.763 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:12:02.806 [main] Log - Browser maximized
+[INFO ] 2023-02-16 16:12:37.764 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:12:37.791 [main] Log - Browser maximized
+[INFO ] 2023-02-16 16:13:22.194 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:13:22.229 [main] Log - Browser maximized
+[INFO ] 2023-02-16 16:14:44.126 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:14:44.126 [TestNG-tests-2] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:14:44.153 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-16 16:14:44.153 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-16 16:14:44.241 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-16 16:14:57.314 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:14:57.342 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-16 16:15:08.096 [TestNG-tests-1] Log - Entered From Date
+[INFO ] 2023-02-16 16:15:09.365 [TestNG-tests-1] Log - Entered To Date
+[INFO ] 2023-02-16 16:15:13.366 [TestNG-tests-1] Log - Clicked on Submit button
+[INFO ] 2023-02-16 16:15:18.427 [TestNG-tests-1] Log - Flight search result page is displayed
+[INFO ] 2023-02-16 16:15:19.747 [TestNG-tests-1] Log - Retrived Hotels text
+[INFO ] 2023-02-16 16:15:19.748 [TestNG-tests-1] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-16 16:15:19.773 [TestNG-tests-1] Log - Retrived Flights text
+[INFO ] 2023-02-16 16:15:19.774 [TestNG-tests-1] Log - Validated that Flights menu is present
+[INFO ] 2023-02-16 16:15:39.980 [TestNG-tests-1] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-16 16:24:19.450 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:24:19.490 [main] Log - Browser maximized
+[INFO ] 2023-02-16 16:28:40.809 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:29:00.143 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:29:00.174 [main] Log - Browser maximized
+[INFO ] 2023-02-16 16:30:07.041 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:30:07.065 [main] Log - Browser maximized
+[INFO ] 2023-02-16 16:30:45.735 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:30:45.765 [main] Log - Browser maximized
+[INFO ] 2023-02-16 16:32:50.368 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:32:50.395 [main] Log - Browser maximized
+[INFO ] 2023-02-16 16:40:06.259 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:40:06.289 [main] Log - Browser maximized
+[INFO ] 2023-02-16 16:54:57.610 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:54:57.650 [main] Log - Browser maximized
+[INFO ] 2023-02-16 16:56:47.854 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:56:47.893 [main] Log - Browser maximized
+[INFO ] 2023-02-16 16:57:33.563 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:57:33.593 [main] Log - Browser maximized
+[INFO ] 2023-02-16 16:58:28.503 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 16:58:28.539 [main] Log - Browser maximized
+[INFO ] 2023-02-16 17:00:29.509 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 17:00:29.546 [main] Log - Browser maximized
+[INFO ] 2023-02-16 23:49:52.860 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 23:49:52.883 [main] Log - Browser maximized
+[INFO ] 2023-02-16 23:52:10.499 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 23:52:10.532 [main] Log - Browser maximized
+[INFO ] 2023-02-16 23:53:11.903 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 23:53:11.945 [main] Log - Browser maximized
+[INFO ] 2023-02-16 23:54:22.067 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 23:54:22.087 [main] Log - Browser maximized
+[INFO ] 2023-02-16 23:55:33.125 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 23:55:33.156 [main] Log - Browser maximized
+[INFO ] 2023-02-16 23:57:30.613 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-16 23:57:30.646 [main] Log - Browser maximized
+[INFO ] 2023-02-17 01:41:32.784 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-17 01:41:32.806 [main] Log - Browser maximized
+[INFO ] 2023-02-17 01:42:19.674 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-17 01:42:19.706 [main] Log - Browser maximized
+[INFO ] 2023-02-17 01:44:47.151 [main] Log - Firefox Driver initiated
+[INFO ] 2023-02-17 01:47:56.596 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-17 01:47:56.758 [main] Log - Browser maximized
+[INFO ] 2023-02-17 01:54:48.324 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-17 01:54:48.489 [main] Log - Browser maximized
+[INFO ] 2023-02-17 01:57:59.305 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-17 01:57:59.461 [main] Log - Browser maximized
+[INFO ] 2023-02-17 02:01:17.940 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-17 02:01:18.114 [main] Log - Browser maximized
+[INFO ] 2023-02-17 02:02:31.505 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-17 02:02:31.775 [main] Log - Browser maximized
+[INFO ] 2023-02-17 02:11:40.529 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-17 02:11:40.803 [main] Log - Browser maximized
+[INFO ] 2023-02-17 02:12:32.859 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-17 02:12:33.066 [main] Log - Browser maximized
+[INFO ] 2023-02-17 02:14:11.025 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-17 02:14:11.183 [main] Log - Browser maximized
+[INFO ] 2023-02-17 02:15:14.825 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-17 02:15:14.982 [main] Log - Browser maximized
+[INFO ] 2023-02-17 02:16:37.971 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-17 02:16:38.154 [main] Log - Browser maximized
+[INFO ] 2023-02-17 02:19:11.231 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-17 02:19:11.390 [main] Log - Browser maximized
+[INFO ] 2023-02-17 02:21:14.530 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-17 02:21:14.700 [main] Log - Browser maximized
+[INFO ] 2023-02-17 02:24:01.335 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-17 02:24:01.467 [main] Log - Browser maximized
+[INFO ] 2023-02-17 02:26:22.763 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-17 02:26:22.914 [main] Log - Browser maximized

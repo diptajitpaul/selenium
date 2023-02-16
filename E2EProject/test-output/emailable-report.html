@@ -8,20 +8,45 @@
 <body>
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
-<tr><th colspan="8">Suite</th></tr>
-<tr><td><a href="#t0">hotepsPage</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">44,102</td><td></td><td></td></tr>
-<tr class="stripe"><td><a href="#t1">homePage</a></td><td class="num">6</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">60,024</td><td></td><td></td></tr>
-<tr><th>Total</th><th class="num">7</th><th class="num">0</th><th class="num">0</th><th class="num">0</th><th class="num">104,126</th><th colspan="2"></th></tr>
+<tr><th colspan="8">Default suite</th></tr>
+<tr><td><a href="#t0">Default test</a></td><td class="num">2</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">72,946</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">hotepsPage &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">PHPTravels.Tests.test_validateHotelsPage</td><td><a href="#m0">searchHotel</a></td><td rowspan="1">1676460477429</td><td rowspan="1">17462</td></tr></tbody>
-<tbody id="t1"><tr><th colspan="4">homePage &#8212; passed</th></tr><tr class="passedeven"><td rowspan="5">PHPTravels.Tests.test_validateHomePage</td><td><a href="#m1">validate3rdCarosolCard</a></td><td rowspan="1">1676460511249</td><td rowspan="1">99</td></tr><tr class="passedeven"><td><a href="#m2">validateBritishAirways</a></td><td rowspan="1">1676460511088</td><td rowspan="1">155</td></tr><tr class="passedeven"><td><a href="#m3">validateFlightsMenu</a></td><td rowspan="1">1676460511057</td><td rowspan="1">25</td></tr><tr class="passedeven"><td><a href="#m4">validateHotelsMenu</a></td><td rowspan="1">1676460510951</td><td rowspan="1">102</td></tr><tr class="passedeven"><td><a href="#m5">validatePageTitle</a></td><td rowspan="1">1676460477429</td><td rowspan="1">45</td></tr><tr class="passedodd"><td rowspan="1">PHPTravels.Tests.test_validateHotelsPage</td><td><a href="#m6">searchHotel</a></td><td rowspan="1">1676460487652</td><td rowspan="1">21719</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Default suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Default test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">PHPTravels.Tests.test_checkLogin</td><td><a href="#m0">checkLogin</a></td><td rowspan="1">1676581012226</td><td rowspan="1">5332</td></tr><tr><th colspan="4">Default test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="2">PHPTravels.Tests.test_checkLogin</td><td><a href="#m1">checkLogin</a></td><td rowspan="2">1676580982967</td><td rowspan="2">29247</td></tr><tr class="passedeven"><td><a href="#m2">checkLogin</a></td></tr></tbody>
 </table>
-<h2>hotepsPage</h2><h3 id="m0">PHPTravels.Tests.test_validateHotelsPage#searchHotel</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h2>homePage</h2><h3 id="m1">PHPTravels.Tests.test_validateHomePage#validate3rdCarosolCard</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">PHPTravels.Tests.test_validateHomePage#validateBritishAirways</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m3">PHPTravels.Tests.test_validateHomePage#validateFlightsMenu</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m4">PHPTravels.Tests.test_validateHomePage#validateHotelsMenu</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m5">PHPTravels.Tests.test_validateHomePage#validatePageTitle</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m6">PHPTravels.Tests.test_validateHotelsPage#searchHotel</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Default test</h2><h3 id="m0">PHPTravels.Tests.test_checkLogin#checkLogin</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>abcd@phptravels.com</td><td>abcd</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertTrue(Assert.java:45)
+	at org.testng.Assert.assertTrue(Assert.java:55)
+	at PHPTravels.Tests.test_checkLogin.checkLogin(test_checkLogin.java:58)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+	at org.testng.TestNG.runSuites(TestNG.java:1063)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">PHPTravels.Tests.test_checkLogin#checkLogin</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>user@phptravels.com</td><td>demouser</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">PHPTravels.Tests.test_checkLogin#checkLogin</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>user@phptravels.com</td><td>demouser</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>
