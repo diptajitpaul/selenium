@@ -2,6 +2,7 @@ package PHPTravels.Base;
 
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileReader;
 import java.io.IOException;
 import java.time.Duration;
 import java.util.Properties;
@@ -16,6 +17,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.io.FileHandler;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.FluentWait;
+import org.testng.ITestContext;
 import org.testng.annotations.*;
 
 import PHPTravels.Resources.Log;
@@ -24,12 +26,15 @@ import PHPTravels.Resources.Log;
 public class Base {
 
 	public WebDriver driver;
+
 	
 	public WebDriver initializeDriver() throws IOException
 	{
 		try {
+		FileReader fis= new FileReader("C:\\Users\\User\\git\\selenium\\E2EProject\\src\\main\\resources\\PHPTravels\\Resources.properties");
+		//FileInputStream fis=new FileInputStream("C:\\Users\\User\\git\\selenium\\E2EProject\\src\\main\\resources\\PHPTravels\\Resources.properties");
 		Properties prop=new Properties();
-		FileInputStream fis=new FileInputStream("C:\\Users\\User\\git\\selenium\\E2EProject\\src\\main\\resources\\PHPTravels\\Resources.properties");
+		
 		prop.load(fis);
 		
 		String browser=System.getProperty("browser")!=null ? System.getProperty("browser") : prop.getProperty("browser");
@@ -64,6 +69,7 @@ public class Base {
 	{
 		System.out.println(e.getMessage());
 	}
+		
 		return driver;
 	}
 	

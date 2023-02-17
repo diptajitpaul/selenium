@@ -1706,3 +1706,125 @@ Session ID: 4a52889a017fee9ac15c65a45d317b37
 [INFO ] 2023-02-17 02:24:01.467 [main] Log - Browser maximized
 [INFO ] 2023-02-17 02:26:22.763 [main] Log - Chrome Driver initiated
 [INFO ] 2023-02-17 02:26:22.914 [main] Log - Browser maximized
+[INFO ] 2023-02-17 02:28:40.849 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-17 02:28:40.942 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2023-02-17 02:28:41.087 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-17 02:28:41.190 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-17 02:28:41.245 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-17 02:28:48.290 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-17 02:28:48.528 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-17 02:28:57.543 [TestNG-tests-1] Log - Entered From Date
+[INFO ] 2023-02-17 02:29:00.166 [TestNG-tests-1] Log - Retrived Hotels text
+[INFO ] 2023-02-17 02:29:00.166 [TestNG-tests-1] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-17 02:29:00.208 [TestNG-tests-1] Log - Retrived Flights text
+[INFO ] 2023-02-17 02:29:00.208 [TestNG-tests-1] Log - Validated that Flights menu is present
+[INFO ] 2023-02-17 02:29:20.484 [TestNG-tests-1] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-18 01:24:24.233 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 01:24:24.467 [main] Log - Browser maximized
+[INFO ] 2023-02-18 01:24:24.534 [main] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 01:24:24.637 [main] Log - Retrived Hotels text
+[INFO ] 2023-02-18 01:24:24.834 [main] Log - Retrived Flights text
+[INFO ] 2023-02-18 01:24:24.835 [main] Log - Validated that Flights menu is present
+[INFO ] 2023-02-18 01:24:45.333 [main] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-18 01:27:21.147 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 01:27:21.356 [main] Log - Browser maximized
+[INFO ] 2023-02-18 01:27:21.413 [main] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 01:28:33.264 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 01:28:33.264 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 01:28:33.629 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-18 01:28:33.648 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 01:28:33.732 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 01:31:51.607 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 01:31:51.607 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 01:31:51.917 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-18 01:31:51.950 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 01:31:51.996 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 01:34:00.268 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 01:34:00.266 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 01:34:00.588 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 01:34:00.791 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-18 01:34:07.667 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 01:35:28.383 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 01:35:28.383 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 01:35:28.650 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 01:35:28.716 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-18 01:35:28.762 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 01:37:56.355 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 01:37:56.343 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 01:37:56.728 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 01:37:56.835 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 01:37:56.842 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-18 01:44:38.253 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 01:44:38.253 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 01:44:38.502 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-18 01:44:38.782 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 01:44:44.117 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 01:44:44.244 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 01:45:12.526 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 01:45:12.526 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 01:45:12.825 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 01:45:12.884 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-18 01:45:19.308 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 01:45:19.439 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 02:53:02.615 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 02:53:02.615 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 02:53:02.888 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 02:53:02.955 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-18 02:55:56.397 [main] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 02:56:56.278 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 02:56:56.276 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 02:56:56.606 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-18 02:56:56.716 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 02:56:56.850 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 03:02:05.604 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 03:02:05.773 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 03:02:05.864 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 03:03:01.671 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 03:03:01.866 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 03:03:01.929 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 03:04:02.935 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 03:04:03.163 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 03:04:03.225 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 03:04:59.124 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 03:04:59.297 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 03:04:59.387 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 03:08:21.771 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 03:08:21.908 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 03:08:21.999 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 03:09:31.037 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 03:09:31.216 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 03:09:31.282 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 03:10:11.270 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 03:10:11.445 [main] Log - Browser maximized
+[INFO ] 2023-02-18 03:10:11.531 [main] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 03:12:26.235 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 03:12:26.365 [main] Log - Browser maximized
+[INFO ] 2023-02-18 03:12:26.407 [main] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 03:13:05.035 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 03:13:05.210 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 03:13:05.273 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 03:13:32.473 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 03:13:32.670 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 03:13:32.741 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 03:14:23.074 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 03:14:23.319 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 03:14:23.371 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 03:19:32.563 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 03:19:32.769 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 03:19:32.830 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 03:27:14.579 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 03:27:14.751 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 03:27:14.833 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 03:28:29.723 [TestNG-tests-2] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 03:28:29.723 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 03:28:29.929 [TestNG-tests-2] Log - Browser maximized
+[INFO ] 2023-02-18 03:28:30.042 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 03:28:30.064 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 03:28:37.431 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 03:28:37.594 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 03:28:46.172 [TestNG-tests-1] Log - Entered From Date
+[INFO ] 2023-02-18 03:28:49.370 [TestNG-tests-1] Log - Retrived Hotels text
+[INFO ] 2023-02-18 03:28:49.370 [TestNG-tests-1] Log - Validated that Hotels menu is present
+[INFO ] 2023-02-18 03:28:49.416 [TestNG-tests-1] Log - Retrived Flights text
+[INFO ] 2023-02-18 03:28:49.417 [TestNG-tests-1] Log - Validated that Flights menu is present
+[INFO ] 2023-02-18 03:29:10.061 [TestNG-tests-1] Log - Validated that Carosol 3rd card text

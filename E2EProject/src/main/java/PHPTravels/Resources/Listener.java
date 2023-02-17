@@ -46,7 +46,7 @@ public class Listener extends Base implements ITestListener{
 		extentTest.get().fail(result.getThrowable().getMessage());
 		//Takes screenshot
 		try {
-			WebDriver driver= (WebDriver) result.getTestClass().getRealClass().getDeclaredField("driver").get(result.getInstance());
+			WebDriver driver= (WebDriver) result.getTestClass().getRealClass().getField("driver").get(result.getInstance());
 			screenshotPath=takeScreenshot(driver);
 			//test.fail(result.getThrowable().getMessage(), MediaEntityBuilder.createScreenCaptureFromPath(screenshotPath).build());
 			extentTest.get().addScreenCaptureFromPath(screenshotPath);
