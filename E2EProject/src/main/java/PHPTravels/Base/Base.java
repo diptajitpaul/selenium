@@ -2,12 +2,18 @@ package PHPTravels.Base;
 
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.time.Duration;
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.List;
 import java.util.Properties;
+import java.util.Set;
 
-
+import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -17,7 +23,6 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.io.FileHandler;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.FluentWait;
-import org.testng.ITestContext;
 import org.testng.annotations.*;
 
 import PHPTravels.Resources.Log;
@@ -26,7 +31,6 @@ import PHPTravels.Resources.Log;
 public class Base {
 
 	public WebDriver driver;
-
 	
 	public WebDriver initializeDriver() throws IOException
 	{
@@ -69,7 +73,7 @@ public class Base {
 	{
 		System.out.println(e.getMessage());
 	}
-		
+
 		return driver;
 	}
 	
@@ -107,6 +111,43 @@ public class Base {
 		wait.withTimeout(Duration.ofSeconds(20));
 		wait.pollingEvery(Duration.ofSeconds(5));
 		wait.until(ExpectedConditions.visibilityOf(webelement));
+	}
+	
+//You can remove the below test() method. I had added it just to practice few things. This doesnot have any dependency
+//anywhere in the project
+	public void test() throws IOException
+	{
+		FileReader fr=new FileReader("");
+		Properties prop=new Properties();
+		prop.load(fr);
+		prop.getProperty("user.dir");
+		
+		WebDriver driver=new ChromeDriver();
+		
+		
+		int a[]=new int[5];
+		List<String> ls=new ArrayList<String>();
+		Set<String> s=new HashSet<String>();
+		
+		Iterator<String> i=s.iterator();
+		String parentWindow=i.next();
+		while(i.hasNext())
+		{
+			if(i.next().contentEquals(""))
+			{
+				driver.switchTo().window(parentWindow);
+			}
+			
+			
+		}
+		
+		driver.findElement(By.tagName("a"));
+
+File srcFile=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+FileHandler.copy(srcFile, new File(""));
+		
+		
+		
 	}
 	
 	

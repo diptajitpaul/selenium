@@ -1828,3 +1828,14 @@ Session ID: 4a52889a017fee9ac15c65a45d317b37
 [INFO ] 2023-02-18 03:28:49.416 [TestNG-tests-1] Log - Retrived Flights text
 [INFO ] 2023-02-18 03:28:49.417 [TestNG-tests-1] Log - Validated that Flights menu is present
 [INFO ] 2023-02-18 03:29:10.061 [TestNG-tests-1] Log - Validated that Carosol 3rd card text
+[INFO ] 2023-02-18 03:41:01.234 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 03:41:01.374 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-18 03:41:01.465 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2023-02-18 03:46:55.938 [TestNG-tests-1] Log - Chrome Driver initiated
+[INFO ] 2023-02-18 03:46:56.145 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2023-02-20 13:45:17.326 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-20 13:45:17.478 [main] Log - Browser maximized
+[INFO ] 2023-02-20 13:46:02.409 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-20 13:46:02.568 [main] Log - Browser maximized
+[INFO ] 2023-02-20 13:50:49.109 [main] Log - Chrome Driver initiated
+[INFO ] 2023-02-20 13:50:49.271 [main] Log - Browser maximized
