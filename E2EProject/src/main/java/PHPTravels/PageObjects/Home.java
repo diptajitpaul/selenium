@@ -15,7 +15,7 @@ public class Home {
 	}
 	
 	//By loginButton=By.cssSelector("li.makeFlex.hrtlCenter.font10.makeRelative.lhUser.userLoggedOut");
-	By flightsMenu=By.cssSelector("ul.makeFlex.font12>li.menu_Flights>div>a");
+	By flightsMenu=By.xpath("//div[contains(@class,'w-100')]/div/div/nav/ul/li[2]/a");
 	By hotelsMenu=By.cssSelector("li.menu_Hotels");
 	By homestaysMenu=By.cssSelector("ul.makeFlex.font12>li.menu_Homestays>div>a");
 	By holidaypackagesMenu=By.cssSelector("ul.makeFlex.font12>li.menu_Holidays>div>a");

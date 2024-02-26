@@ -5,32 +5,20 @@
     <listener class-name="PHPTravels.Resources.Listener"/>
   </listeners>
   <test thread-count="5" parallel="tests" name="homePage(failed)">
+    <groups>
+      <run>
+        <include name="Regression"/>
+      </run>
+    </groups>
     <classes>
-      <class name="PHPTravels.Tests.test_validateHotelsPage">
-        <methods>
-          <include name="intializeTest"/>
-          <include name="endTest"/>
-          <include name="searchHotel"/>
-        </methods>
-      </class> <!-- PHPTravels.Tests.test_validateHotelsPage -->
       <class name="PHPTravels.Tests.test_validateHomePage">
         <methods>
-          <include name="intializeTest"/>
+          <include name="ZintializeTest"/>
           <include name="endTest"/>
-          <include name="validateBritishAirways"/>
+          <include name="validateFlightsMenu"/>
+          <include name="validateHotelsMenu"/>
         </methods>
       </class> <!-- PHPTravels.Tests.test_validateHomePage -->
     </classes>
   </test> <!-- homePage(failed) -->
-  <test thread-count="5" parallel="tests" name="login(failed)">
-    <classes>
-      <class name="PHPTravels.Tests.test_checkLogin">
-        <methods>
-          <include name="intializeTest"/>
-          <include name="endTest"/>
-          <include name="checkLogin" invocation-numbers="1"/>
-        </methods>
-      </class> <!-- PHPTravels.Tests.test_checkLogin -->
-    </classes>
-  </test> <!-- login(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -5,8 +5,14 @@
     <classes>
       <class name="PHPTravels.Tests.test_validateHomePage">
         <methods>
-          <include name="intializeTest"/>
+          <include name="validateMouseActions"/>
+          <include name="ZintializeTest"/>
           <include name="endTest"/>
+          <include name="validateFlightsMenu"/>
+          <include name="validateHotelsMenu"/>
+          <include name="getDriver"/>
+          <include name="validate3rdCarosolCard"/>
+          <include name="validateBritishAirways"/>
           <include name="validatePageTitle"/>
         </methods>
       </class> <!-- PHPTravels.Tests.test_validateHomePage -->

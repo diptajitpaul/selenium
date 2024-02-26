@@ -14,9 +14,8 @@ import PHPTravels.Base.Base;
 public class Listener extends Base implements ITestListener{
 	
 	//Variables for Extent Report
-	//ExtentHtmlReporter htmlReporter;
-	ExtentTest test;
 	ExtentReports extent=ExtentReporterNG.getReportObject();
+	ExtentTest test;
 	ThreadLocal<ExtentTest> extentTest=new ThreadLocal();
 	
 	protected String screenshotPath;

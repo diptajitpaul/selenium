@@ -90,7 +90,7 @@ public class Base {
 	}
 	
 	@BeforeClass(alwaysRun=true)
-	public void intializeTest() throws Exception
+	public void ZintializeTest() throws Exception
 	{
 		driver=initializeDriver();
 

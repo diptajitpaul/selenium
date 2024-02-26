@@ -1,25 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+<testng-results ignored="6" total="9" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-20T13:50:40 IST" name="Default suite" finished-at="2023-02-20T13:51:00 IST" duration-ms="19051">
+  <suite started-at="2024-02-22T09:47:55 IST" name="Suite" finished-at="2024-02-22T09:48:24 IST" duration-ms="29588">
     <groups>
+      <group name="Regression">
+        <method signature="test_validateHomePage.validateFlightsMenu()[pri:1, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" name="validateFlightsMenu" class="PHPTravels.Tests.test_validateHomePage"/>
+        <method signature="test_validateHomePage.validateHotelsMenu()[pri:0, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" name="validateHotelsMenu" class="PHPTravels.Tests.test_validateHomePage"/>
+        <method signature="test_validateHomePage.validatePageTitle()[pri:-1, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" name="validatePageTitle" class="PHPTravels.Tests.test_validateHomePage"/>
+      </group> <!-- Regression -->
+      <group name="Smoke">
+        <method signature="test_validateHomePage.validateFlightsMenu()[pri:1, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" name="validateFlightsMenu" class="PHPTravels.Tests.test_validateHomePage"/>
+      </group> <!-- Smoke -->
     </groups>
-    <test started-at="2023-02-20T13:50:40 IST" name="Default test" finished-at="2023-02-20T13:51:00 IST" duration-ms="19051">
+    <test started-at="2024-02-22T09:47:55 IST" name="login" finished-at="2024-02-22T09:47:55 IST" duration-ms="16">
+    </test> <!-- login -->
+    <test started-at="2024-02-22T09:47:55 IST" name="homePage" finished-at="2024-02-22T09:48:24 IST" duration-ms="29588">
       <class name="PHPTravels.Tests.test_validateHomePage">
-        <test-method is-config="true" signature="intializeTest()[pri:0, instance:PHPTravels.Tests.test_validateHomePage@7b9a4292]" started-at="2023-02-20T13:50:41 IST" name="intializeTest" finished-at="2023-02-20T13:50:49 IST" duration-ms="8281" status="PASS">
+        <test-method is-config="true" signature="ZintializeTest()[pri:0, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-22T09:47:55 IST" name="ZintializeTest" finished-at="2024-02-22T09:48:23 IST" duration-ms="27931" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- intializeTest -->
-        <test-method signature="validateMouseActions()[pri:4, instance:PHPTravels.Tests.test_validateHomePage@7b9a4292]" started-at="2023-02-20T13:50:49 IST" name="validateMouseActions" finished-at="2023-02-20T13:50:59 IST" duration-ms="10407" status="PASS">
+        </test-method> <!-- ZintializeTest -->
+        <test-method signature="validatePageTitle()[pri:-1, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-22T09:48:23 IST" name="validatePageTitle" finished-at="2024-02-22T09:48:23 IST" duration-ms="25" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validateMouseActions -->
-        <test-method is-config="true" signature="endTest()[pri:0, instance:PHPTravels.Tests.test_validateHomePage@7b9a4292]" started-at="2023-02-20T13:50:59 IST" name="endTest" finished-at="2023-02-20T13:51:00 IST" duration-ms="272" status="PASS">
+        </test-method> <!-- validatePageTitle -->
+        <test-method signature="validateHotelsMenu()[pri:0, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-22T09:48:23 IST" name="validateHotelsMenu" finished-at="2024-02-22T09:48:23 IST" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHotelsMenu -->
+        <test-method signature="validateFlightsMenu()[pri:1, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-22T09:48:23 IST" name="validateFlightsMenu" finished-at="2024-02-22T09:48:23 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFlightsMenu -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-22T09:48:23 IST" name="endTest" finished-at="2024-02-22T09:48:24 IST" duration-ms="1450" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
       </class> <!-- PHPTravels.Tests.test_validateHomePage -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- homePage -->
+  </suite> <!-- Suite -->
 </testng-results>
