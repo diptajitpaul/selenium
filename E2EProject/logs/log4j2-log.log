@@ -2114,3 +2114,51 @@ Session ID: 4a52889a017fee9ac15c65a45d317b37
 [INFO ] 2024-02-26 00:55:56.516 [TestNG-test=homePage-1] Log - Validated that Flights menu is present
 [INFO ] 2024-02-26 00:57:15.646 [TestNG-test=login-1] Log - Firefox Driver initiated
 [INFO ] 2024-02-26 00:57:15.666 [TestNG-test=login-1] Log - Browser maximized
+[INFO ] 2024-02-26 10:10:31.856 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2024-02-26 10:11:00.083 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2024-02-26 10:11:00.109 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2024-02-26 10:11:00.164 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2024-02-26 10:11:00.288 [TestNG-tests-1] Log - Retrived Hotels text
+[INFO ] 2024-02-26 10:11:00.289 [TestNG-tests-1] Log - Validated that Hotels menu is present
+[INFO ] 2024-02-26 10:11:00.327 [TestNG-tests-1] Log - Retrived Flights text
+[INFO ] 2024-02-26 10:11:00.328 [TestNG-tests-1] Log - Validated that Flights menu is present
+[INFO ] 2024-02-26 10:13:43.899 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2024-02-26 10:13:43.911 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2024-02-26 10:13:43.944 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2024-02-26 10:13:44.361 [TestNG-tests-1] Log - Retrived Hotels text
+[INFO ] 2024-02-26 10:13:44.361 [TestNG-tests-1] Log - Validated that Hotels menu is present
+[INFO ] 2024-02-26 10:13:44.388 [TestNG-tests-1] Log - Retrived Flights text
+[INFO ] 2024-02-26 10:13:44.389 [TestNG-tests-1] Log - Validated that Flights menu is present
+[INFO ] 2024-02-26 10:14:38.882 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2024-02-26 10:14:38.902 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2024-02-26 10:14:38.946 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2024-02-26 10:14:39.433 [TestNG-tests-1] Log - Retrived Hotels text
+[INFO ] 2024-02-26 10:14:39.434 [TestNG-tests-1] Log - Validated that Hotels menu is present
+[INFO ] 2024-02-26 10:14:39.469 [TestNG-tests-1] Log - Retrived Flights text
+[INFO ] 2024-02-26 10:14:39.469 [TestNG-tests-1] Log - Validated that Flights menu is present
+[INFO ] 2024-02-26 10:16:01.895 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2024-02-26 10:20:48.841 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2024-02-26 10:26:18.072 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2024-02-26 10:30:39.274 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2024-02-26 10:35:22.257 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2024-02-26 10:37:47.169 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2024-02-26 10:37:47.185 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2024-02-26 10:37:47.231 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2024-02-26 10:37:47.310 [TestNG-tests-1] Log - Retrived Hotels text
+[INFO ] 2024-02-26 10:37:47.311 [TestNG-tests-1] Log - Validated that Hotels menu is present
+[INFO ] 2024-02-26 10:37:47.345 [TestNG-tests-1] Log - Retrived Flights text
+[INFO ] 2024-02-26 10:37:47.345 [TestNG-tests-1] Log - Validated that Flights menu is present
+[INFO ] 2024-02-26 10:38:29.281 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2024-02-26 10:38:29.306 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2024-02-26 10:38:29.370 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2024-02-26 10:38:29.532 [TestNG-tests-1] Log - Retrived Hotels text
+[INFO ] 2024-02-26 10:38:29.532 [TestNG-tests-1] Log - Validated that Hotels menu is present
+[INFO ] 2024-02-26 10:38:29.579 [TestNG-tests-1] Log - Retrived Flights text
+[INFO ] 2024-02-26 10:38:29.579 [TestNG-tests-1] Log - Validated that Flights menu is present
+[INFO ] 2024-02-26 10:41:47.066 [TestNG-tests-1] Log - Firefox Driver initiated
+[INFO ] 2024-02-26 10:41:47.082 [TestNG-tests-1] Log - Browser maximized
+[INFO ] 2024-02-26 10:41:47.154 [TestNG-tests-1] Log - Validate Hotels Search Page title
+[INFO ] 2024-02-26 10:41:47.278 [TestNG-tests-1] Log - Retrived Hotels text
+[INFO ] 2024-02-26 10:41:47.279 [TestNG-tests-1] Log - Validated that Hotels menu is present
+[INFO ] 2024-02-26 10:41:47.325 [TestNG-tests-1] Log - Retrived Flights text
+[INFO ] 2024-02-26 10:41:47.325 [TestNG-tests-1] Log - Validated that Flights menu is present
