@@ -17,6 +17,7 @@
           <include name="endTest"/>
           <include name="validateFlightsMenu"/>
           <include name="validateHotelsMenu"/>
+          <include name="validatePageTitle"/>
         </methods>
       </class> <!-- PHPTravels.Tests.test_validateHomePage -->
     </classes>

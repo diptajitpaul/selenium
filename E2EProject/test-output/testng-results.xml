@@ -2,7 +2,7 @@
 <testng-results ignored="6" total="9" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-22T09:47:55 IST" name="Suite" finished-at="2024-02-22T09:48:24 IST" duration-ms="29588">
+  <suite started-at="2024-02-26T10:38:11 IST" name="Suite" finished-at="2024-02-26T10:38:30 IST" duration-ms="18913">
     <groups>
       <group name="Regression">
         <method signature="test_validateHomePage.validateFlightsMenu()[pri:1, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" name="validateFlightsMenu" class="PHPTravels.Tests.test_validateHomePage"/>
@@ -13,27 +13,27 @@
         <method signature="test_validateHomePage.validateFlightsMenu()[pri:1, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" name="validateFlightsMenu" class="PHPTravels.Tests.test_validateHomePage"/>
       </group> <!-- Smoke -->
     </groups>
-    <test started-at="2024-02-22T09:47:55 IST" name="login" finished-at="2024-02-22T09:47:55 IST" duration-ms="16">
+    <test started-at="2024-02-26T10:38:11 IST" name="login" finished-at="2024-02-26T10:38:11 IST" duration-ms="17">
     </test> <!-- login -->
-    <test started-at="2024-02-22T09:47:55 IST" name="homePage" finished-at="2024-02-22T09:48:24 IST" duration-ms="29588">
+    <test started-at="2024-02-26T10:38:11 IST" name="homePage" finished-at="2024-02-26T10:38:30 IST" duration-ms="18913">
       <class name="PHPTravels.Tests.test_validateHomePage">
-        <test-method is-config="true" signature="ZintializeTest()[pri:0, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-22T09:47:55 IST" name="ZintializeTest" finished-at="2024-02-22T09:48:23 IST" duration-ms="27931" status="PASS">
+        <test-method is-config="true" signature="ZintializeTest()[pri:0, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-26T10:38:11 IST" name="ZintializeTest" finished-at="2024-02-26T10:38:29 IST" duration-ms="17319" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ZintializeTest -->
-        <test-method signature="validatePageTitle()[pri:-1, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-22T09:48:23 IST" name="validatePageTitle" finished-at="2024-02-22T09:48:23 IST" duration-ms="25" status="PASS">
+        <test-method signature="validatePageTitle()[pri:-1, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-26T10:38:29 IST" name="validatePageTitle" finished-at="2024-02-26T10:38:29 IST" duration-ms="34" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validatePageTitle -->
-        <test-method signature="validateHotelsMenu()[pri:0, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-22T09:48:23 IST" name="validateHotelsMenu" finished-at="2024-02-22T09:48:23 IST" duration-ms="59" status="PASS">
+        <test-method signature="validateHotelsMenu()[pri:0, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-26T10:38:29 IST" name="validateHotelsMenu" finished-at="2024-02-26T10:38:29 IST" duration-ms="71" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateHotelsMenu -->
-        <test-method signature="validateFlightsMenu()[pri:1, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-22T09:48:23 IST" name="validateFlightsMenu" finished-at="2024-02-22T09:48:23 IST" duration-ms="31" status="PASS">
+        <test-method signature="validateFlightsMenu()[pri:1, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-26T10:38:29 IST" name="validateFlightsMenu" finished-at="2024-02-26T10:38:29 IST" duration-ms="33" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateFlightsMenu -->
-        <test-method is-config="true" signature="endTest()[pri:0, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-22T09:48:23 IST" name="endTest" finished-at="2024-02-22T09:48:24 IST" duration-ms="1450" status="PASS">
+        <test-method is-config="true" signature="endTest()[pri:0, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-26T10:38:29 IST" name="endTest" finished-at="2024-02-26T10:38:30 IST" duration-ms="1285" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
