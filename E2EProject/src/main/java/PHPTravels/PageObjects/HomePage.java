@@ -16,7 +16,7 @@ public class HomePage {
 	
 	
 	By hotelsMenu=By.cssSelector("ul#tab>li:nth-of-type(2)>button.nav-link.w-100.waves-effect>span");
-	By flightsMenu=By.cssSelector("ul#tab>li:nth-of-type(1)>button.nav-link.w-100.waves-effect>span");
+	By flightsMenu=By.xpath("//div[@id='navbarSupportedContent' and @class='collapse navbar-collapse justify-content-between']/div/ul/li/a");
 	By britishAirways=By.cssSelector("div.deal-title.d-flex.align-items-center>img[src='https://phptravels.net/api/uploads/images/flights/slider/rd28iqxqv808gk.png']");
 	By carosolCard_3=By.cssSelector("body>section.hotel-area:nth-of-type(3)>div.container>div>div:nth-of-type(2) div div div div div div:nth-of-type(8) div p");
 	By hotelCityWebelement=By.cssSelector("span.select2-selection__rendered");

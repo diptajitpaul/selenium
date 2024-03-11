@@ -13,22 +13,24 @@ import io.cucumber.java.en.*;
 
 public class StepDifinitionImpl extends Base{
 	
-	WebDriver driver;
+	public WebDriver driver;
 	
-	@Given("I launched the PHPTravels application")
+
+	@Given("I want to launch the browser and open the homepage of the application")
 	public void I_launched_the_PHPTravels_application() throws IOException
 	{
 		this.driver=initializeDriver();
+		Log.info("Driver Initialized");
 	}
 	
-	@Then("{string} is the page title")
-	public void Validate_Page_Title()
+	@Then("^(.+) is the page title$")
+	public void Validate_Page_Title(String string) throws Exception
 	{
 		Log.info("Validate Hotels Search Page title");
-		Assert.assertEquals(driver.getTitle(),"PHPTRAVELS | Travel Technology Partner - PHPTRAVELS");
+		Assert.assertEquals(driver.getTitle(),string);
 	}
 	
-	@Then("{string} hotels menu is present")
+	/*@Then("{string} hotels menu is present")
 	public void Validate_Hotels_Menu()
 	{
 		HomePage h=new HomePage(driver);
@@ -38,21 +40,21 @@ public class StepDifinitionImpl extends Base{
 		
 		Assert.assertEquals(actualHotelText,"Hotels");
 		Log.info("Validated that Hotels menu is present");
-	}
+	}*/
 	
-	@Then("{string} flights menu is present")
-	public void Validate_Flights_Menu()
+	@And("^(.+) flights menu is present$")
+	public void Validate_Flights_Menu(String flightsMenuText)
 	{
 		HomePage h=new HomePage(driver);
 
 		String actualFlightsText=h.flights().getText();
 		Log.info("Retrived Flights text");
 		
-		Assert.assertEquals(actualFlightsText,"Flights");
+		Assert.assertEquals(actualFlightsText,flightsMenuText);
 		Log.info("Validated that Flights menu is present");
 	}
 	
-	@When("I scroll down the page to the British Airways webelement")
+	/*@When("I scroll down the page to the British Airways webelement")
 	public void scroll_to_British_Airways()
 	{
 		HomePage h=new HomePage(driver);
@@ -88,7 +90,7 @@ public class StepDifinitionImpl extends Base{
 		Assert.assertEquals(h.carosolCard3rd().getText(),"Islamabad");
 		Log.info("Validated that Carosol 3rd card text");
 		Thread.sleep(2000);
-	}
+	}*/
 	
 	@And("close the browser")
 	public void close_browser()

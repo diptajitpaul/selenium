@@ -17,16 +17,22 @@
 ## (Comments)
 #Sample Feature Definition Template
 @tag
-Feature: Test the webelements in the forst row
+Feature: Test the HomePage
 
-Scenario: Initialize test
-  Given I want to launch the browser and open the homepage of the application
+
+ # Background: Initialize test
+ # Given I want to launch the browser and open the homepage of the application
 
   @tag1
-  Scenario: Select Radiobutton2
-
-    When I click on Radiobutton2
-    Then Radiobutton2 is selected
+  Scenario Outline: Validate HomePage elements
+  Given I want to launch the browser and open the homepage of the application
+  Then <PageTitle> is the page title
+  And <FlightsMenuText> flights menu is present
+  And close the browser 
+  
+  Examples:
+  |PageTitle			|FlightsMenuText|
+  |PHPTRAVELS			|Flights				|
+  
+  
     
-   Scenario: Close browser
-  Given I want to close browser

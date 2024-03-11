@@ -30,7 +30,7 @@ public class test_checkLogin extends Base {
 
 	 
 
-@Test(enabled=true,dataProvider="getData")
+@Test(enabled=true,dataProvider="getData",groups= {"Regression"})
 public void checkLogin(String username,String password) throws Exception
 {
 	WebDriverWait wait=new WebDriverWait(driver, Duration.ofSeconds(10));

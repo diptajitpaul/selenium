@@ -3,19 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="PHPTravels.Tests.test_validateHomePage">
+      <class name="Cucumber.TestNGTestRunner">
         <methods>
-          <include name="validateMouseActions"/>
-          <include name="ZintializeTest"/>
-          <include name="endTest"/>
-          <include name="validateFlightsMenu"/>
-          <include name="validateHotelsMenu"/>
-          <include name="getDriver"/>
-          <include name="validate3rdCarosolCard"/>
-          <include name="validateBritishAirways"/>
-          <include name="validatePageTitle"/>
+          <include name="setUpClass"/>
+          <include name="runScenario" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
         </methods>
-      </class> <!-- PHPTravels.Tests.test_validateHomePage -->
+      </class> <!-- Cucumber.TestNGTestRunner -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

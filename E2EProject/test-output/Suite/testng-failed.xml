@@ -17,9 +17,24 @@
           <include name="endTest"/>
           <include name="validateFlightsMenu"/>
           <include name="validateHotelsMenu"/>
-          <include name="validatePageTitle"/>
         </methods>
       </class> <!-- PHPTravels.Tests.test_validateHomePage -->
     </classes>
   </test> <!-- homePage(failed) -->
+  <test thread-count="5" parallel="tests" name="login(failed)">
+    <groups>
+      <run>
+        <include name="Regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="PHPTravels.Tests.test_checkLogin">
+        <methods>
+          <include name="ZintializeTest"/>
+          <include name="endTest"/>
+          <include name="checkLogin" invocation-numbers="0 1 2"/>
+        </methods>
+      </class> <!-- PHPTravels.Tests.test_checkLogin -->
+    </classes>
+  </test> <!-- login(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="6" total="9" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-26T10:38:11 IST" name="Suite" finished-at="2024-02-26T10:38:30 IST" duration-ms="18913">
+  <suite started-at="2024-03-11T14:20:05 IST" name="Default suite" finished-at="2024-03-11T14:20:21 IST" duration-ms="15664">
     <groups>
-      <group name="Regression">
-        <method signature="test_validateHomePage.validateFlightsMenu()[pri:1, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" name="validateFlightsMenu" class="PHPTravels.Tests.test_validateHomePage"/>
-        <method signature="test_validateHomePage.validateHotelsMenu()[pri:0, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" name="validateHotelsMenu" class="PHPTravels.Tests.test_validateHomePage"/>
-        <method signature="test_validateHomePage.validatePageTitle()[pri:-1, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" name="validatePageTitle" class="PHPTravels.Tests.test_validateHomePage"/>
-      </group> <!-- Regression -->
-      <group name="Smoke">
-        <method signature="test_validateHomePage.validateFlightsMenu()[pri:1, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" name="validateFlightsMenu" class="PHPTravels.Tests.test_validateHomePage"/>
-      </group> <!-- Smoke -->
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Cucumber.TestNGTestRunner@59662a0b]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
     </groups>
-    <test started-at="2024-02-26T10:38:11 IST" name="login" finished-at="2024-02-26T10:38:11 IST" duration-ms="17">
-    </test> <!-- login -->
-    <test started-at="2024-02-26T10:38:11 IST" name="homePage" finished-at="2024-02-26T10:38:30 IST" duration-ms="18913">
-      <class name="PHPTravels.Tests.test_validateHomePage">
-        <test-method is-config="true" signature="ZintializeTest()[pri:0, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-26T10:38:11 IST" name="ZintializeTest" finished-at="2024-02-26T10:38:29 IST" duration-ms="17319" status="PASS">
+    <test started-at="2024-03-11T14:20:05 IST" name="Default test" finished-at="2024-03-11T14:20:21 IST" duration-ms="15664">
+      <class name="Cucumber.TestNGTestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:Cucumber.TestNGTestRunner@59662a0b]" started-at="2024-03-11T14:20:05 IST" name="setUpClass" finished-at="2024-03-11T14:20:06 IST" duration-ms="923" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@5d152bcd]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ZintializeTest -->
-        <test-method signature="validatePageTitle()[pri:-1, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-26T10:38:29 IST" name="validatePageTitle" finished-at="2024-02-26T10:38:29 IST" duration-ms="34" status="PASS">
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Cucumber.TestNGTestRunner@59662a0b]" started-at="2024-03-11T14:20:06 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-11T14:20:20 IST" duration-ms="14632" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate HomePage elements"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Test the HomePage"]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validatePageTitle -->
-        <test-method signature="validateHotelsMenu()[pri:0, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-26T10:38:29 IST" name="validateHotelsMenu" finished-at="2024-02-26T10:38:29 IST" duration-ms="71" status="PASS">
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:Cucumber.TestNGTestRunner@59662a0b]" started-at="2024-03-11T14:20:20 IST" name="tearDownClass" finished-at="2024-03-11T14:20:21 IST" duration-ms="54" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validateHotelsMenu -->
-        <test-method signature="validateFlightsMenu()[pri:1, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-26T10:38:29 IST" name="validateFlightsMenu" finished-at="2024-02-26T10:38:29 IST" duration-ms="33" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateFlightsMenu -->
-        <test-method is-config="true" signature="endTest()[pri:0, instance:PHPTravels.Tests.test_validateHomePage@5fbdfdcf]" started-at="2024-02-26T10:38:29 IST" name="endTest" finished-at="2024-02-26T10:38:30 IST" duration-ms="1285" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- endTest -->
-      </class> <!-- PHPTravels.Tests.test_validateHomePage -->
-    </test> <!-- homePage -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- Cucumber.TestNGTestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
